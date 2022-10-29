@@ -6,11 +6,28 @@ round(case when Quantity > 0 then (Quantity)*(((Carbs_gr+Protein_gr)*4) + (Fats_
 else 0 end,2) as Product_Cal_Per_Date, 2651 as Daily_Cal_Target
 from NutritionDataset 
 
-select date, sum(product_Cal_per_Date) as CalPerDay,daily_cal_Target, round((Daily_Cal_Target -sum(product_Cal_per_Date)),2) AS CalDeficit
+create view V_Deficit as
+select date, sum(product_Cal_per_Date) as CalPerDay,daily_cal_Target, round(sum(product_Cal_per_Date) - Daily_Cal_Target ,2) AS CalDeficit
 from V_Cal
 group by Date,Daily_Cal_Target
-order by 1
 
+-- Days of calorie deficit / Days of calorie surplus
+
+select sum(A.deficit_days) as deficit_days, (count(A.date) - sum(A.deficit_days)) as Plus_days
+from (
+select Date, CalDeficit, case
+when CalDeficit < 0 then 1
+else 0 end as deficit_days
+from V_Deficit
+ ) A
+
+ -- Total Calorie Deficit/Surplus in this time period
+ 
+ select sum(caldeficit) as Total_cal_def
+ from V_Deficit
+
+ -- conclusion: I was in a calorie deficit in that time period
+ 
 -- Calories by day of the week
 
 select A.Day, round(AVG(A.CalPerDay),2) as cal_per_weekday

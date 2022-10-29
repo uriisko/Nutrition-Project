@@ -1,0 +1,2317 @@
+Date,Day,Product,Quantity,Weight (gr),Carbs (gr),Protein (gr),Fats (gr)
+7/13/2022,Wednesday,Avocado,0,174,14.842,3.48,25.508
+7/13/2022,Wednesday,WaterMelon,2,250,18.875,1.525,0.375
+7/13/2022,Wednesday,Espresso,6,0.04,0,0,0.072
+7/13/2022,Wednesday,Sweet Potato,0,596,119.915,9.357,0.298
+7/13/2022,Wednesday,Egg,1,58,0.65,7.296,6.154
+7/13/2022,Wednesday,Banana,0,101,23.068,1.101,0.333
+7/13/2022,Wednesday,Yellow Cheece,0,18.18,0.036,4.3,5.09
+7/13/2022,Wednesday,Green Olives,0,2,0.077,0.021,0.306
+7/13/2022,Wednesday,Chicken Breast,3,125,0,26.538,3.238
+7/13/2022,Wednesday,Yoplle,1,150,19.8,4.65,4.5
+7/13/2022,Wednesday,Thina,2,15,1.605,3.825,9.015
+7/13/2022,Wednesday,Unknown,2,100,20,20,20
+7/13/2022,Wednesday,Pita Bread (cusmin),3,87.5,28.7,9.3625,1.1375
+7/13/2022,Wednesday,Cottege 3%,0,250,3.75,27.5,7.5
+7/13/2022,Wednesday,Cottege 5%,1,250,3.75,27.5,12.5
+7/13/2022,Wednesday,Tuna Can (Water),0,112,0,27.776,0.672
+7/13/2022,Wednesday,Tuna Can (Oil),0,160,0,38.4,20.8
+7/13/2022,Wednesday,Kashio Nut,10,2,0.604,0.364,0.877
+7/13/2022,Wednesday,Almond,10,1,0.217,0.212,0.494
+7/13/2022,Wednesday,Tamar ,6,17,12.745,0.308,0.026
+7/13/2022,Wednesday,Steak,0,300,0,79.94,50.28
+7/14/2022,Thursday,Avocado,0,174,14.842,3.48,25.508
+7/14/2022,Thursday,WaterMelon,5,250,18.875,1.525,0.375
+7/14/2022,Thursday,Espresso,4,0.04,0,0,0.072
+7/14/2022,Thursday,Sweet Potato,0,596,119.915,9.357,0.298
+7/14/2022,Thursday,Egg,1,58,0.65,7.296,6.154
+7/14/2022,Thursday,Banana,0,101,23.068,1.101,0.333
+7/14/2022,Thursday,Yellow Cheece,0,18.18,0.036,4.3,5.09
+7/14/2022,Thursday,Green Olives,10,2,0.077,0.021,0.306
+7/14/2022,Thursday,Chicken Breast,0,125,0,26.538,3.238
+7/14/2022,Thursday,Yoplle,1,150,19.8,4.65,4.5
+7/14/2022,Thursday,Thina,0,15,1.605,3.825,9.015
+7/14/2022,Thursday,Unknown,0,100,20,20,20
+7/14/2022,Thursday,Pita Bread (cusmin),2,87.5,28.7,9.3625,1.1375
+7/14/2022,Thursday,Cottege 3%,0,250,3.75,27.5,7.5
+7/14/2022,Thursday,Cottege 5%,0,250,3.75,27.5,12.5
+7/14/2022,Thursday,Tuna Can (Water),0,112,0,27.776,0.672
+7/14/2022,Thursday,Tuna Can (Oil),1,160,0,38.4,20.8
+7/14/2022,Thursday,Kashio Nut,5,2,0.604,0.364,0.877
+7/14/2022,Thursday,Almond,12,1,0.217,0.212,0.494
+7/14/2022,Thursday,Tamar ,4,17,12.745,0.308,0.026
+7/14/2022,Thursday,Steak,1.5,300,0,79.94,50.28
+7/14/2022,Thursday,Tziki,2,20,0.98,1.88,0.9
+7/15/2022,Friday,Avocado,0,174,14.842,3.48,25.508
+7/15/2022,Friday,WaterMelon,0,250,18.875,1.525,0.375
+7/15/2022,Friday,Espresso,5,0.04,0,0,0.072
+7/15/2022,Friday,Sweet Potato,0,596,119.915,9.357,0.298
+7/15/2022,Friday,Egg,0,58,0.65,7.296,6.154
+7/15/2022,Friday,Banana,0,101,23.068,1.101,0.333
+7/15/2022,Friday,Yellow Cheece,0,18.18,0.036,4.3,5.09
+7/15/2022,Friday,Green Olives,0,2,0.077,0.021,0.306
+7/15/2022,Friday,Chicken Breast,0,125,0,26.538,3.238
+7/15/2022,Friday,Yoplle,0,150,19.8,4.65,4.5
+7/15/2022,Friday,Thina,0,15,1.605,3.825,9.015
+7/15/2022,Friday,Unknown,1,100,20,20,20
+7/15/2022,Friday,Pita Bread (cusmin),2,87.5,28.7,9.3625,1.1375
+7/15/2022,Friday,Cottege 3%,0,250,3.75,27.5,7.5
+7/15/2022,Friday,Cottege 5%,0,250,3.75,27.5,12.5
+7/15/2022,Friday,Tuna Can (Water),0,112,0,27.776,0.672
+7/15/2022,Friday,Tuna Can (Oil),0,160,0,38.4,20.8
+7/15/2022,Friday,Kashio Nut,14,2,0.604,0.364,0.877
+7/15/2022,Friday,Almond,10,1,0.217,0.212,0.494
+7/15/2022,Friday,Tamar ,6,17,12.745,0.308,0.026
+7/15/2022,Friday,Steak,0,300,0,79.94,50.28
+7/15/2022,Friday,Tziki,2,20,0.98,1.88,0.9
+7/15/2022,Friday,Squash,0,218,4.31,0.91,0.31
+7/15/2022,Friday,Potato,0,175,37.012,4.375,0.228
+7/15/2022,Friday,Masabaha,4,42,4.2,2.73,9.24
+7/15/2022,Friday,Friday Dinner,1,1000,80,80,40
+7/16/2022,Saturday,Avocado,0,174,14.842,3.48,25.508
+7/16/2022,Saturday,WaterMelon,2,250,18.875,1.525,0.375
+7/16/2022,Saturday,Espresso,2,0.04,0,0,0.072
+7/16/2022,Saturday,Sweet Potato,0,596,119.915,9.357,0.298
+7/16/2022,Saturday,Egg,1,58,0.65,7.296,6.154
+7/16/2022,Saturday,Banana,0,101,23.068,1.101,0.333
+7/16/2022,Saturday,Yellow Cheece,1,18.18,0.036,4.3,5.09
+7/16/2022,Saturday,Green Olives,0,2,0.077,0.021,0.306
+7/16/2022,Saturday,Chicken Breast,0,125,0,26.538,3.238
+7/16/2022,Saturday,Yoplle,1,150,19.8,4.65,4.5
+7/16/2022,Saturday,Thina,2,15,1.605,3.825,9.015
+7/16/2022,Saturday,Unknown,0,100,20,20,20
+7/16/2022,Saturday,Pita Bread (cusmin),2,87.5,28.7,9.3625,1.1375
+7/16/2022,Saturday,Cottege 3%,0,250,3.75,27.5,7.5
+7/16/2022,Saturday,Cottege 5%,1,250,3.75,27.5,12.5
+7/16/2022,Saturday,Tuna Can (Water),0,112,0,27.776,0.672
+7/16/2022,Saturday,Tuna Can (Oil),0,160,0,38.4,20.8
+7/16/2022,Saturday,Kashio Nut,10,2,0.604,0.364,0.877
+7/16/2022,Saturday,Almond,10,1,0.217,0.212,0.494
+7/16/2022,Saturday,Tamar ,5,17,12.745,0.308,0.026
+7/16/2022,Saturday,Steak,0,300,0,79.94,50.28
+7/16/2022,Saturday,Tziki,0,20,0.98,1.88,0.9
+7/16/2022,Saturday,Squash,0,218,4.31,0.91,0.31
+7/16/2022,Saturday,Potato,0,175,37.012,4.375,0.228
+7/16/2022,Saturday,Masabaha,0,42,4.2,2.73,9.24
+7/16/2022,Saturday,Friday Dinner,1,1000,80,80,40
+7/16/2022,Saturday,Persian Rice,0,166,37.184,3.652,10.956
+7/16/2022,Saturday,Beatroot,0,120,11.472,1.932,0.204
+7/17/2022,Sunday,Avocado,0,174,14.842,3.48,25.508
+7/17/2022,Sunday,WaterMelon,1,250,18.875,1.525,0.375
+7/17/2022,Sunday,Espresso,5,0.04,0,0,0.072
+7/17/2022,Sunday,Friday Dinner,0,1000,80,80,40
+7/17/2022,Sunday,Sweet Potato,0,596,119.915,9.357,0.298
+7/17/2022,Sunday,Egg,1,58,0.65,7.296,6.154
+7/17/2022,Sunday,Banana,0,101,23.068,1.101,0.333
+7/17/2022,Sunday,Yellow Cheece,0,18.18,0.036,4.3,5.09
+7/17/2022,Sunday,Green Olives,0,2,0.077,0.021,0.306
+7/17/2022,Sunday,Chicken Breast,0,125,0,26.538,3.238
+7/17/2022,Sunday,Yoplle,1,150,19.8,4.65,4.5
+7/17/2022,Sunday,Eggplant,2,42,6.384,0.882,4.158
+7/17/2022,Sunday,Thina,2,15,1.605,3.825,9.015
+7/17/2022,Sunday,Masabaha,0,42,4.2,2.73,9.24
+7/17/2022,Sunday,Beatroot,0.17,120,11.472,1.932,0.204
+7/17/2022,Sunday,Tziki,0,20,0.98,1.88,0.9
+7/17/2022,Sunday,Unknown,0,100,20,20,20
+7/17/2022,Sunday,Cucumber,1,96,3.485,0.624,0.106
+7/17/2022,Sunday,Persian Rice,0,166,37.184,3.652,10.956
+7/17/2022,Sunday,Steak,0,300,0,79.94,50.28
+7/17/2022,Sunday,Sinta steak,1,300,0,87.99,29.01
+7/17/2022,Sunday,Pita Bread (cusmin),2,87.5,28.7,9.3625,1.1375
+7/17/2022,Sunday,Cottege 3%,0,250,3.75,27.5,7.5
+7/17/2022,Sunday,Cottege 5%,1,250,3.75,27.5,12.5
+7/17/2022,Sunday,Tuna Can (Water),0,112,0,27.776,0.672
+7/17/2022,Sunday,Tuna Can (Oil),0,160,0,38.4,20.8
+7/17/2022,Sunday,Squash,2,218,4.31,0.91,0.31
+7/17/2022,Sunday,Kashio Nut,8,2,0.604,0.364,0.877
+7/17/2022,Sunday,Almond,15,1,0.217,0.212,0.494
+7/17/2022,Sunday,Tamar ,3,17,12.745,0.308,0.026
+7/17/2022,Sunday,Potato,0,175,37.012,4.375,0.228
+7/18/2022,Monday,Avocado,0,174,14.842,3.48,25.508
+7/18/2022,Monday,WaterMelon,1,250,18.875,1.525,0.375
+7/18/2022,Monday,Espresso,5,0.04,0,0,0.072
+7/18/2022,Monday,Actimel,1,108,5,2.8,1.6
+7/18/2022,Monday,Friday Dinner,0,1000,80,80,40
+7/18/2022,Monday,Sweet Potato,0,596,119.915,9.357,0.298
+7/18/2022,Monday,Egg,2,58,0.65,7.296,6.154
+7/18/2022,Monday,Banana,1,101,23.068,1.101,0.333
+7/18/2022,Monday,Yellow Cheece,0,18.18,0.036,4.3,5.09
+7/18/2022,Monday,Gamba,1,185,11.156,1.832,0.555
+7/18/2022,Monday,Green Olives,13,2,0.077,0.021,0.306
+7/18/2022,Monday,Chicken Breast,2,125,0,26.538,3.238
+7/18/2022,Monday,Yoplle,1,150,19.8,4.65,4.5
+7/18/2022,Monday,Eggplant,0,42,6.384,0.882,4.158
+7/18/2022,Monday,Thina,4,15,1.605,3.825,9.015
+7/18/2022,Monday,Masabaha,0,42,4.2,2.73,9.24
+7/18/2022,Monday,Beatroot,0,120,11.472,1.932,0.204
+7/18/2022,Monday,Tziki,0,20,0.98,1.88,0.9
+7/18/2022,Monday,Unknown,0,100,20,20,20
+7/18/2022,Monday,Cucumber,2,96,3.485,0.624,0.106
+7/18/2022,Monday,Persian Rice,0,166,37.184,3.652,10.956
+7/18/2022,Monday,Steak,0,300,0,79.94,50.28
+7/18/2022,Monday,Sinta steak,0,300,0,87.99,29.01
+7/18/2022,Monday,Sherry Tomato,10,10,0.392,0.088,0.02
+7/18/2022,Monday,Pita Bread (cusmin),2,87.5,28.7,9.3625,1.1375
+7/18/2022,Monday,Cottege 3%,0,250,3.75,27.5,7.5
+7/18/2022,Monday,Cottege 5%,0,250,3.75,27.5,12.5
+7/18/2022,Monday,Tuna Can (Water),0,112,0,27.776,0.672
+7/18/2022,Monday,Tuna Can (Oil),1,160,0,38.4,20.8
+7/18/2022,Monday,Squash,2,218,4.31,0.91,0.31
+7/18/2022,Monday,Kashio Nut,10,2,0.604,0.364,0.877
+7/18/2022,Monday,Almond,10,1,0.217,0.212,0.494
+7/18/2022,Monday,Tamar ,3,17,12.745,0.308,0.026
+7/18/2022,Monday,Potato,0,175,37.012,4.375,0.228
+7/19/2022,Tuesday,Avocado,0,174,14.842,3.48,25.508
+7/19/2022,Tuesday,WaterMelon,2,250,18.875,1.525,0.375
+7/19/2022,Tuesday,Espresso,4,0.04,0,0,0.072
+7/19/2022,Tuesday,Actimel,1,108,5,2.8,1.6
+7/19/2022,Tuesday,Friday Dinner,0.8,1000,80,80,40
+7/19/2022,Tuesday,Beer,0,330,11.715,1.518,0
+7/19/2022,Tuesday,Sweet Potato,0,596,119.915,9.357,0.298
+7/19/2022,Tuesday,Egg,1,58,0.65,7.296,6.154
+7/19/2022,Tuesday,Banana,0,101,23.068,1.101,0.333
+7/19/2022,Tuesday,Yellow Cheece,0,18.18,0.036,4.3,5.09
+7/19/2022,Tuesday,Gamba,0,185,11.156,1.832,0.555
+7/19/2022,Tuesday,Green Olives,0,2,0.077,0.021,0.306
+7/19/2022,Tuesday,Chicken Breast,2.7,125,0,26.538,3.238
+7/19/2022,Tuesday,Yoplle,0,150,19.8,4.65,4.5
+7/19/2022,Tuesday,Eggplant,0,42,6.384,0.882,4.158
+7/19/2022,Tuesday,Thina,0,15,1.605,3.825,9.015
+7/19/2022,Tuesday,Masabaha,0,42,4.2,2.73,9.24
+7/19/2022,Tuesday,Beatroot,0,120,11.472,1.932,0.204
+7/19/2022,Tuesday,Tziki,0,20,0.98,1.88,0.9
+7/19/2022,Tuesday,Unknown,0,100,20,20,20
+7/19/2022,Tuesday,Cucumber,1,96,3.485,0.624,0.106
+7/19/2022,Tuesday,Persian Rice,0,166,37.184,3.652,10.956
+7/19/2022,Tuesday,Steak,0,300,0,79.94,50.28
+7/19/2022,Tuesday,Sinta steak,0,300,0,87.99,29.01
+7/19/2022,Tuesday,Sherry Tomato,2,10,0.392,0.088,0.02
+7/19/2022,Tuesday,Pita Bread (cusmin),1,87.5,28.7,9.3625,1.1375
+7/19/2022,Tuesday,Cottege 3%,0,250,3.75,27.5,7.5
+7/19/2022,Tuesday,Cottege 5%,0.5,250,3.75,27.5,12.5
+7/19/2022,Tuesday,Tuna Can (Water),0,112,0,27.776,0.672
+7/19/2022,Tuesday,Tuna Can (Oil),0,160,0,38.4,20.8
+7/19/2022,Tuesday,Squash,2.5,218,4.31,0.91,0.31
+7/19/2022,Tuesday,Kashio Nut,10,2,0.604,0.364,0.877
+7/19/2022,Tuesday,Almond,10,1,0.217,0.212,0.494
+7/19/2022,Tuesday,Tamar ,4,17,12.745,0.308,0.026
+7/19/2022,Tuesday,Potato,0,175,37.012,4.375,0.228
+7/20/2022,Wednesday,Avocado,0,174,14.842,3.48,25.508
+7/20/2022,Wednesday,WaterMelon,1,250,18.875,1.525,0.375
+7/20/2022,Wednesday,Espresso,5,0.04,0,0,0.072
+7/20/2022,Wednesday,Actimel,0,108,5,2.8,1.6
+7/20/2022,Wednesday,Friday Dinner,0,1000,80,80,40
+7/20/2022,Wednesday,Beer,0,330,11.715,1.518,0
+7/20/2022,Wednesday,Sweet Potato,0,596,119.915,9.357,0.298
+7/20/2022,Wednesday,Egg,2,58,0.65,7.296,6.154
+7/20/2022,Wednesday,Banana,1,101,23.068,1.101,0.333
+7/20/2022,Wednesday,Yellow Cheece,0,18.18,0.036,4.3,5.09
+7/20/2022,Wednesday,Gamba,1,185,11.156,1.832,0.555
+7/20/2022,Wednesday,Green Olives,10,2,0.077,0.021,0.306
+7/20/2022,Wednesday,Chicken Breast,2,125,0,26.538,3.238
+7/20/2022,Wednesday,Yoplle,2,150,19.8,4.65,4.5
+7/20/2022,Wednesday,Eggplant,0,42,6.384,0.882,4.158
+7/20/2022,Wednesday,Thina,1,15,1.605,3.825,9.015
+7/20/2022,Wednesday,Masabaha,0,42,4.2,2.73,9.24
+7/20/2022,Wednesday,Beatroot,1,120,11.472,1.932,0.204
+7/20/2022,Wednesday,Tziki,0,20,0.98,1.88,0.9
+7/20/2022,Wednesday,Unknown,0.5,100,20,20,20
+7/20/2022,Wednesday,Cucumber,2,96,3.485,0.624,0.106
+7/20/2022,Wednesday,Persian Rice,0,166,37.184,3.652,10.956
+7/20/2022,Wednesday,Steak,0,300,0,79.94,50.28
+7/20/2022,Wednesday,Sinta steak,0,300,0,87.99,29.01
+7/20/2022,Wednesday,Sherry Tomato,4,10,0.392,0.088,0.02
+7/20/2022,Wednesday,Pita Bread (cusmin),1,87.5,28.7,9.3625,1.1375
+7/20/2022,Wednesday,Cottege 3%,0,250,3.75,27.5,7.5
+7/20/2022,Wednesday,Cottege 5%,1,250,3.75,27.5,12.5
+7/20/2022,Wednesday,Tuna Can (Water),0,112,0,27.776,0.672
+7/20/2022,Wednesday,Tuna Can (Oil),1,160,0,38.4,20.8
+7/20/2022,Wednesday,Squash,2,218,4.31,0.91,0.31
+7/20/2022,Wednesday,Kashio Nut,10,2,0.604,0.364,0.877
+7/20/2022,Wednesday,Almond,15,1,0.217,0.212,0.494
+7/20/2022,Wednesday,Tamar ,4,17,12.745,0.308,0.026
+7/20/2022,Wednesday,Potato,0,175,37.012,4.375,0.228
+7/21/2022,Thursday,Avocado,0,174,14.842,3.48,25.508
+7/21/2022,Thursday,WaterMelon,0,250,18.875,1.525,0.375
+7/21/2022,Thursday,Espresso,5,0.04,0,0,0.072
+7/21/2022,Thursday,Actimel,2,108,5,2.8,1.6
+7/21/2022,Thursday,Friday Dinner,0,1000,80,80,40
+7/21/2022,Thursday,Beer,0,330,11.715,1.518,0
+7/21/2022,Thursday,Sweet Potato,0,596,119.915,9.357,0.298
+7/21/2022,Thursday,Egg,0,58,0.65,7.296,6.154
+7/21/2022,Thursday,Banana,0,101,23.068,1.101,0.333
+7/21/2022,Thursday,Yellow Cheece,0,18.18,0.036,4.3,5.09
+7/21/2022,Thursday,Gamba,0,185,11.156,1.832,0.555
+7/21/2022,Thursday,Green Olives,0,2,0.077,0.021,0.306
+7/21/2022,Thursday,Chicken Breast,4,125,0,26.538,3.238
+7/21/2022,Thursday,Yoplle,1,150,19.8,4.65,4.5
+7/21/2022,Thursday,Eggplant,0,42,6.384,0.882,4.158
+7/21/2022,Thursday,Thina,2,15,1.605,3.825,9.015
+7/21/2022,Thursday,Masabaha,0,42,4.2,2.73,9.24
+7/21/2022,Thursday,Beatroot,0.5,120,11.472,1.932,0.204
+7/21/2022,Thursday,Tziki,0,20,0.98,1.88,0.9
+7/21/2022,Thursday,Unknown,2.5,100,20,20,20
+7/21/2022,Thursday,Cucumber,0,96,3.485,0.624,0.106
+7/21/2022,Thursday,Persian Rice,0,166,37.184,3.652,10.956
+7/21/2022,Thursday,Steak,0,300,0,79.94,50.28
+7/21/2022,Thursday,Sinta steak,0,300,0,87.99,29.01
+7/21/2022,Thursday,Sherry Tomato,0,10,0.392,0.088,0.02
+7/21/2022,Thursday,Pita Bread (cusmin),1,87.5,28.7,9.3625,1.1375
+7/21/2022,Thursday,Cottege 3%,0,250,3.75,27.5,7.5
+7/21/2022,Thursday,Cottege 5%,0,250,3.75,27.5,12.5
+7/21/2022,Thursday,Tuna Can (Water),0,112,0,27.776,0.672
+7/21/2022,Thursday,Tuna Can (Oil),1,160,0,38.4,20.8
+7/21/2022,Thursday,Squash,0,218,4.31,0.91,0.31
+7/21/2022,Thursday,Kashio Nut,0,2,0.604,0.364,0.877
+7/21/2022,Thursday,Almond,13,1,0.217,0.212,0.494
+7/21/2022,Thursday,Tamar ,5,17,12.745,0.308,0.026
+7/21/2022,Thursday,Potato,0,175,37.012,4.375,0.228
+7/22/2022,Friday,Avocado,0,174,14.842,3.48,25.508
+7/22/2022,Friday,WaterMelon,0,250,18.875,1.525,0.375
+7/22/2022,Friday,Espresso,5,0.04,0,0,0.072
+7/22/2022,Friday,Actimel,0,108,5,2.8,1.6
+7/22/2022,Friday,Friday Dinner,1,1000,80,80,40
+7/22/2022,Friday,Beer,0,330,11.715,1.518,0
+7/22/2022,Friday,Sweet Potato,0,596,119.915,9.357,0.298
+7/22/2022,Friday,Egg,0,58,0.65,7.296,6.154
+7/22/2022,Friday,Banana,1,101,23.068,1.101,0.333
+7/22/2022,Friday,Yellow Cheece,0,18.18,0.036,4.3,5.09
+7/22/2022,Friday,Gamba,0,185,11.156,1.832,0.555
+7/22/2022,Friday,Green Olives,13,2,0.077,0.021,0.306
+7/22/2022,Friday,Chicken Breast,0,125,0,26.538,3.238
+7/22/2022,Friday,Greek Yogurt,1,130,5.5,7.2,8.5
+7/22/2022,Friday,Yoplle,0,150,19.8,4.65,4.5
+7/22/2022,Friday,Eggplant,0,42,6.384,0.882,4.158
+7/22/2022,Friday,Thina,0,15,1.605,3.825,9.015
+7/22/2022,Friday,Matbuha,2,15,1.575,0.255,0.495
+7/22/2022,Friday,Masabaha,0,42,4.2,2.73,9.24
+7/22/2022,Friday,Honey,1,9,7.416,0.027,0
+7/22/2022,Friday,Beatroot,0,120,11.472,1.932,0.204
+7/22/2022,Friday,Tziki,0,20,0.98,1.88,0.9
+7/22/2022,Friday,Unknown,0,100,20,20,20
+7/22/2022,Friday,Cucumber,0,96,3.485,0.624,0.106
+7/22/2022,Friday,Persian Rice,0,166,37.184,3.652,10.956
+7/22/2022,Friday,Sausage,1,100,2,20,10
+7/22/2022,Friday,Steak,0,300,0,79.94,50.28
+7/22/2022,Friday,Sinta steak,0,300,0,87.99,29.01
+7/22/2022,Friday,Sherry Tomato,0,10,0.392,0.088,0.02
+7/22/2022,Friday,Pita Bread (cusmin),1,87.5,28.7,9.3625,1.1375
+7/22/2022,Friday,Cottege 3%,0,250,3.75,27.5,7.5
+7/22/2022,Friday,Cottege 5%,0,250,3.75,27.5,12.5
+7/22/2022,Friday,Tuna Can (Water),0,112,0,27.776,0.672
+7/22/2022,Friday,Tuna Can (Oil),0,160,0,38.4,20.8
+7/22/2022,Friday,Squash,0,218,4.31,0.91,0.31
+7/22/2022,Friday,Kashio Nut,0,2,0.604,0.364,0.877
+7/22/2022,Friday,Almond,13,1,0.217,0.212,0.494
+7/22/2022,Friday,Tamar ,5,17,12.745,0.308,0.026
+7/22/2022,Friday,Potato,0,175,37.012,4.375,0.228
+7/23/2022,Saturday,Avocado,0,174,14.842,3.48,25.508
+7/23/2022,Saturday,WaterMelon,0,250,18.875,1.525,0.375
+7/23/2022,Saturday,Espresso,5,0.04,0,0,0.072
+7/23/2022,Saturday,Actimel,1,108,5,2.8,1.6
+7/23/2022,Saturday,Friday Dinner,0,1000,80,80,40
+7/23/2022,Saturday,Beer,0,330,11.715,1.518,0
+7/23/2022,Saturday,Sweet Potato,0,596,119.915,9.357,0.298
+7/23/2022,Saturday,Egg,1,58,0.65,7.296,6.154
+7/23/2022,Saturday,Banana,0,101,23.068,1.101,0.333
+7/23/2022,Saturday,Yellow Cheece,0,18.18,0.036,4.3,5.09
+7/23/2022,Saturday,Gamba,0,185,11.156,1.832,0.555
+7/23/2022,Saturday,Green Olives,14,2,0.077,0.021,0.306
+7/23/2022,Saturday,Chicken Breast,0,125,0,26.538,3.238
+7/23/2022,Saturday,Greek Yogurt,0,130,5.5,7.2,8.5
+7/23/2022,Saturday,Yoplle,1,150,19.8,4.65,4.5
+7/23/2022,Saturday,Eggplant,0,42,6.384,0.882,4.158
+7/23/2022,Saturday,Thina,0,15,1.605,3.825,9.015
+7/23/2022,Saturday,Matbuha,5,15,1.575,0.255,0.495
+7/23/2022,Saturday,Masabaha,0,42,4.2,2.73,9.24
+7/23/2022,Saturday,Honey,0,9,7.416,0.027,0
+7/23/2022,Saturday,Beatroot,0.5,120,11.472,1.932,0.204
+7/23/2022,Saturday,Tziki,0,20,0.98,1.88,0.9
+7/23/2022,Saturday,Unknown,3,100,20,20,20
+7/23/2022,Saturday,Cucumber,0,96,3.485,0.624,0.106
+7/23/2022,Saturday,Persian Rice,0,166,37.184,3.652,10.956
+7/23/2022,Saturday,Sausage,1.2,100,2,20,10
+7/23/2022,Saturday,Steak,0,300,0,79.94,50.28
+7/23/2022,Saturday,Sinta steak,0,300,0,87.99,29.01
+7/23/2022,Saturday,Sherry Tomato,0,10,0.392,0.088,0.02
+7/23/2022,Saturday,Pita Bread (cusmin),2.5,87.5,28.7,9.3625,1.1375
+7/23/2022,Saturday,Cottege 3%,0,250,3.75,27.5,7.5
+7/23/2022,Saturday,Cottege 5%,0,250,3.75,27.5,12.5
+7/23/2022,Saturday,Tuna Can (Water),0,112,0,27.776,0.672
+7/23/2022,Saturday,Tuna Can (Oil),0,160,0,38.4,20.8
+7/23/2022,Saturday,Squash,0,218,4.31,0.91,0.31
+7/23/2022,Saturday,Kashio Nut,0,2,0.604,0.364,0.877
+7/23/2022,Saturday,Almond,0,1,0.217,0.212,0.494
+7/23/2022,Saturday,Tamar ,6,17,12.745,0.308,0.026
+7/23/2022,Saturday,Potato,0,175,37.012,4.375,0.228
+7/24/2022,Sunday,Avocado,0,174,14.842,3.48,25.508
+7/24/2022,Sunday,WaterMelon,2,250,18.875,1.525,0.375
+7/24/2022,Sunday,Espresso,4,0.04,0,0,0.072
+7/24/2022,Sunday,Actimel,0,108,5,2.8,1.6
+7/24/2022,Sunday,Friday Dinner,0,1000,80,80,40
+7/24/2022,Sunday,Beer,0,330,11.715,1.518,0
+7/24/2022,Sunday,Sweet Potato,0,596,119.915,9.357,0.298
+7/24/2022,Sunday,Egg,0,58,0.65,7.296,6.154
+7/24/2022,Sunday,Banana,0,101,23.068,1.101,0.333
+7/24/2022,Sunday,Yellow Cheece,0,18.18,0.036,4.3,5.09
+7/24/2022,Sunday,Gamba,0,185,11.156,1.832,0.555
+7/24/2022,Sunday,Green Olives,17,2,0.077,0.021,0.306
+7/24/2022,Sunday,Chicken Breast,0,125,0,26.538,3.238
+7/24/2022,Sunday,Greek Yogurt,1,130,5.5,7.2,8.5
+7/24/2022,Sunday,Yoplle,2,150,19.8,4.65,4.5
+7/24/2022,Sunday,Eggplant,0,42,6.384,0.882,4.158
+7/24/2022,Sunday,Thina,0,15,1.605,3.825,9.015
+7/24/2022,Sunday,Matbuha,0,15,1.575,0.255,0.495
+7/24/2022,Sunday,Masabaha,0,42,4.2,2.73,9.24
+7/24/2022,Sunday,Honey,0,9,7.416,0.027,0
+7/24/2022,Sunday,Beatroot,0,120,11.472,1.932,0.204
+7/24/2022,Sunday,Tziki,0,20,0.98,1.88,0.9
+7/24/2022,Sunday,Unknown,0.5,100,20,20,20
+7/24/2022,Sunday,Cucumber,0,96,3.485,0.624,0.106
+7/24/2022,Sunday,Persian Rice,0,166,37.184,3.652,10.956
+7/24/2022,Sunday,Sausage,0,100,2,20,10
+7/24/2022,Sunday,Steak,1,300,0,79.94,50.28
+7/24/2022,Sunday,Sinta steak,0,300,0,87.99,29.01
+7/24/2022,Sunday,Tomato,1,172,6.748,1.526,0.344
+7/24/2022,Sunday,Sherry Tomato,0,10,0.392,0.088,0.02
+7/24/2022,Sunday,Mushroom,7,25,0.82,0.773,0.085
+7/24/2022,Sunday,Pita Bread (cusmin),1,87.5,28.7,9.3625,1.1375
+7/24/2022,Sunday,Cottege 3%,0,250,3.75,27.5,7.5
+7/24/2022,Sunday,Cottege 5%,2,250,3.75,27.5,12.5
+7/24/2022,Sunday,Tuna Can (Water),0,112,0,27.776,0.672
+7/24/2022,Sunday,Tuna Can (Oil),0,160,0,38.4,20.8
+7/24/2022,Sunday,Squash,1,218,4.31,0.91,0.31
+7/24/2022,Sunday,Kashio Nut,10,2,0.604,0.364,0.877
+7/24/2022,Sunday,Almond,10,1,0.217,0.212,0.494
+7/24/2022,Sunday,Tamar ,6,17,12.745,0.308,0.026
+7/24/2022,Sunday,Potato,0,175,37.012,4.375,0.228
+7/25/2022,Monday,Avocado,0,174,14.842,3.48,25.508
+7/25/2022,Monday,WaterMelon,2,250,18.875,1.525,0.375
+7/25/2022,Monday,Espresso,5,0.04,0,0,0.072
+7/25/2022,Monday,Actimel,1,108,5,2.8,1.6
+7/25/2022,Monday,Friday Dinner,0,1000,80,80,40
+7/25/2022,Monday,Beer,0,330,11.715,1.518,0
+7/25/2022,Monday,Sweet Potato,0,596,119.915,9.357,0.298
+7/25/2022,Monday,Egg,0,58,0.65,7.296,6.154
+7/25/2022,Monday,Banana,1,101,23.068,1.101,0.333
+7/25/2022,Monday,Yellow Cheece,0,18.18,0.036,4.3,5.09
+7/25/2022,Monday,Gamba,0,185,11.156,1.832,0.555
+7/25/2022,Monday,Green Olives,14,2,0.077,0.021,0.306
+7/25/2022,Monday,Chicken Breast,2,125,0,26.538,3.238
+7/25/2022,Monday,Greek Yogurt,0,130,5.5,7.2,8.5
+7/25/2022,Monday,Yoplle,1,150,19.8,4.65,4.5
+7/25/2022,Monday,Eggplant,0,42,6.384,0.882,4.158
+7/25/2022,Monday,Thina,0,15,1.605,3.825,9.015
+7/25/2022,Monday,Matbuha,0,15,1.575,0.255,0.495
+7/25/2022,Monday,Masabaha,0,42,4.2,2.73,9.24
+7/25/2022,Monday,Honey,0,9,7.416,0.027,0
+7/25/2022,Monday,Beatroot,0,120,11.472,1.932,0.204
+7/25/2022,Monday,Tziki,0,20,0.98,1.88,0.9
+7/25/2022,Monday,Unknown,0,100,20,20,20
+7/25/2022,Monday,Cucumber,0,96,3.485,0.624,0.106
+7/25/2022,Monday,Persian Rice,0,166,37.184,3.652,10.956
+7/25/2022,Monday,Sausage,0,100,2,20,10
+7/25/2022,Monday,Steak,0,300,0,79.94,50.28
+7/25/2022,Monday,Sinta steak,0,300,0,87.99,29.01
+7/25/2022,Monday,Tomato,2,172,6.748,1.526,0.344
+7/25/2022,Monday,Sherry Tomato,0,10,0.392,0.088,0.02
+7/25/2022,Monday,Mushroom,5,25,0.82,0.773,0.085
+7/25/2022,Monday,Pita Bread (cusmin),2,87.5,28.7,9.3625,1.1375
+7/25/2022,Monday,Cottege 3%,0,250,3.75,27.5,7.5
+7/25/2022,Monday,Cottege 5%,1,250,3.75,27.5,12.5
+7/25/2022,Monday,Tuna Can (Water),0,112,0,27.776,0.672
+7/25/2022,Monday,Tuna Can (Oil),0,160,0,38.4,20.8
+7/25/2022,Monday,Squash,1,218,4.31,0.91,0.31
+7/25/2022,Monday,Kashio Nut,5,2,0.604,0.364,0.877
+7/25/2022,Monday,Almond,15,1,0.217,0.212,0.494
+7/25/2022,Monday,Tamar ,5,17,12.745,0.308,0.026
+7/25/2022,Monday,Potato,0,175,37.012,4.375,0.228
+7/26/2022,Tuesday,Avocado,0,174,14.842,3.48,25.508
+7/26/2022,Tuesday,WaterMelon,0,250,18.875,1.525,0.375
+7/26/2022,Tuesday,Espresso,5,0.04,0,0,0.072
+7/26/2022,Tuesday,Actimel,0,108,5,2.8,1.6
+7/26/2022,Tuesday,Friday Dinner,0,1000,80,80,40
+7/26/2022,Tuesday,Beer,0,330,11.715,1.518,0
+7/26/2022,Tuesday,Sweet Potato,0,596,119.915,9.357,0.298
+7/26/2022,Tuesday,Egg,1,58,0.65,7.296,6.154
+7/26/2022,Tuesday,Banana,1,101,23.068,1.101,0.333
+7/26/2022,Tuesday,Yellow Cheece,0,18.18,0.036,4.3,5.09
+7/26/2022,Tuesday,Gamba,0,185,11.156,1.832,0.555
+7/26/2022,Tuesday,Green Olives,15,2,0.077,0.021,0.306
+7/26/2022,Tuesday,Chicken Breast,1.2,125,0,26.538,3.238
+7/26/2022,Tuesday,Greek Yogurt,0,130,5.5,7.2,8.5
+7/26/2022,Tuesday,Yoplle,1,150,19.8,4.65,4.5
+7/26/2022,Tuesday,Eggplant,0,42,6.384,0.882,4.158
+7/26/2022,Tuesday,Thina,2,15,1.605,3.825,9.015
+7/26/2022,Tuesday,Matbuha,0,15,1.575,0.255,0.495
+7/26/2022,Tuesday,Masabaha,0,42,4.2,2.73,9.24
+7/26/2022,Tuesday,Honey,0,9,7.416,0.027,0
+7/26/2022,Tuesday,Beatroot,0,120,11.472,1.932,0.204
+7/26/2022,Tuesday,Tziki,0,20,0.98,1.88,0.9
+7/26/2022,Tuesday,Unknown,1,100,20,20,20
+7/26/2022,Tuesday,Cucumber,1,96,3.485,0.624,0.106
+7/26/2022,Tuesday,Persian Rice,0,166,37.184,3.652,10.956
+7/26/2022,Tuesday,Sausage,0,100,2,20,10
+7/26/2022,Tuesday,Steak,0,300,0,79.94,50.28
+7/26/2022,Tuesday,Sinta steak,0,300,0,87.99,29.01
+7/26/2022,Tuesday,Tomato,0,172,6.748,1.526,0.344
+7/26/2022,Tuesday,Sherry Tomato,0,10,0.392,0.088,0.02
+7/26/2022,Tuesday,Mushroom,6,25,0.82,0.773,0.085
+7/26/2022,Tuesday,Pita Bread (cusmin),2.5,87.5,28.7,9.3625,1.1375
+7/26/2022,Tuesday,Cottege 3%,0,250,3.75,27.5,7.5
+7/26/2022,Tuesday,Cottege 5%,1,250,3.75,27.5,12.5
+7/26/2022,Tuesday,Tuna Can (Water),0,112,0,27.776,0.672
+7/26/2022,Tuesday,Tuna Can (Oil),0,160,0,38.4,20.8
+7/26/2022,Tuesday,Squash,1.5,218,4.31,0.91,0.31
+7/26/2022,Tuesday,Kashio Nut,10,2,0.604,0.364,0.877
+7/26/2022,Tuesday,Almond,10,1,0.217,0.212,0.494
+7/26/2022,Tuesday,Tamar ,6,17,12.745,0.308,0.026
+7/26/2022,Tuesday,Potato,0,175,37.012,4.375,0.228
+7/27/2022,Wednesday,Avocado,0,174,14.842,3.48,25.508
+7/27/2022,Wednesday,WaterMelon,2,250,18.875,1.525,0.375
+7/27/2022,Wednesday,Espresso,5,0.04,0,0,0.072
+7/27/2022,Wednesday,Actimel,1,108,5,2.8,1.6
+7/27/2022,Wednesday,Friday Dinner,0,1000,80,80,40
+7/27/2022,Wednesday,Beer,0,330,11.715,1.518,0
+7/27/2022,Wednesday,Sweet Potato,0,596,119.915,9.357,0.298
+7/27/2022,Wednesday,Egg,1,58,0.65,7.296,6.154
+7/27/2022,Wednesday,Banana,1,101,23.068,1.101,0.333
+7/27/2022,Wednesday,Yellow Cheece,0,18.18,0.036,4.3,5.09
+7/27/2022,Wednesday,Gamba,1,185,11.156,1.832,0.555
+7/27/2022,Wednesday,Green Olives,0,2,0.077,0.021,0.306
+7/27/2022,Wednesday,Chicken Breast,0,125,0,26.538,3.238
+7/27/2022,Wednesday,Greek Yogurt,0,130,5.5,7.2,8.5
+7/27/2022,Wednesday,Yoplle,0,150,19.8,4.65,4.5
+7/27/2022,Wednesday,Eggplant,0,42,6.384,0.882,4.158
+7/27/2022,Wednesday,Thina,1,15,1.605,3.825,9.015
+7/27/2022,Wednesday,Matbuha,0,15,1.575,0.255,0.495
+7/27/2022,Wednesday,Masabaha,0,42,4.2,2.73,9.24
+7/27/2022,Wednesday,Honey,0,9,7.416,0.027,0
+7/27/2022,Wednesday,Beatroot,0,120,11.472,1.932,0.204
+7/27/2022,Wednesday,Tziki,0,20,0.98,1.88,0.9
+7/27/2022,Wednesday,Unknown,0,100,20,20,20
+7/27/2022,Wednesday,Cucumber,1,96,3.485,0.624,0.106
+7/27/2022,Wednesday,Persian Rice,0,166,37.184,3.652,10.956
+7/27/2022,Wednesday,Sausage,0,100,2,20,10
+7/27/2022,Wednesday,Steak,0.6,300,0,79.94,50.28
+7/27/2022,Wednesday,Sinta steak,0,300,0,87.99,29.01
+7/27/2022,Wednesday,Tomato,1,172,6.748,1.526,0.344
+7/27/2022,Wednesday,Sherry Tomato,0,10,0.392,0.088,0.02
+7/27/2022,Wednesday,Mushroom,7,25,0.82,0.773,0.085
+7/27/2022,Wednesday,Pita Bread (cusmin),0.5,87.5,28.7,9.3625,1.1375
+7/27/2022,Wednesday,Cottege 3%,0,250,3.75,27.5,7.5
+7/27/2022,Wednesday,Cottege 5%,0,250,3.75,27.5,12.5
+7/27/2022,Wednesday,Tuna Can (Water),1,112,0,27.776,0.672
+7/27/2022,Wednesday,Tuna Can (Oil),0,160,0,38.4,20.8
+7/27/2022,Wednesday,Squash,1.2,218,4.31,0.91,0.31
+7/27/2022,Wednesday,Kashio Nut,10,2,0.604,0.364,0.877
+7/27/2022,Wednesday,Almond,10,1,0.217,0.212,0.494
+7/27/2022,Wednesday,Tamar ,5,17,12.745,0.308,0.026
+7/27/2022,Wednesday,Potato,0.5,175,37.012,4.375,0.228
+7/28/2022,Thursday,Avocado,0,174,14.842,3.48,25.508
+7/28/2022,Thursday,WaterMelon,1,250,18.875,1.525,0.375
+7/28/2022,Thursday,Espresso,6,0.04,0,0,0.072
+7/28/2022,Thursday,Actimel,0,108,5,2.8,1.6
+7/28/2022,Thursday,Friday Dinner,0,1000,80,80,40
+7/28/2022,Thursday,Beer,1,330,11.715,1.518,0
+7/28/2022,Thursday,Sweet Potato,0,596,119.915,9.357,0.298
+7/28/2022,Thursday,Egg,1,58,0.65,7.296,6.154
+7/28/2022,Thursday,Banana,1,101,23.068,1.101,0.333
+7/28/2022,Thursday,Yellow Cheece,0,18.18,0.036,4.3,5.09
+7/28/2022,Thursday,Gamba,0,185,11.156,1.832,0.555
+7/28/2022,Thursday,Hamburger,2.5,100,1,15,10
+7/28/2022,Thursday,Green Olives,0,2,0.077,0.021,0.306
+7/28/2022,Thursday,Chicken Breast,2,125,0,26.538,3.238
+7/28/2022,Thursday,Greek Yogurt,0,130,5.5,7.2,8.5
+7/28/2022,Thursday,Yougort Pro,0,150,5.4,13.4,0
+7/28/2022,Thursday,Yoplle,1,150,19.8,4.65,4.5
+7/28/2022,Thursday,Eggplant,0,42,6.384,0.882,4.158
+7/28/2022,Thursday,Thina,0,15,1.605,3.825,9.015
+7/28/2022,Thursday,Matbuha,0,15,1.575,0.255,0.495
+7/28/2022,Thursday,Masabaha,0,42,4.2,2.73,9.24
+7/28/2022,Thursday,Honey,0,9,7.416,0.027,0
+7/28/2022,Thursday,Beatroot,0,120,11.472,1.932,0.204
+7/28/2022,Thursday,Tziki,0,20,0.98,1.88,0.9
+7/28/2022,Thursday,Unknown,0,100,20,20,20
+7/28/2022,Thursday,Hamburger Bun,1,85,41.82,7.905,3.315
+7/28/2022,Thursday,Cucumber,0,96,3.485,0.624,0.106
+7/28/2022,Thursday,Persian Rice,0,166,37.184,3.652,10.956
+7/28/2022,Thursday,Sausage,0,100,2,20,10
+7/28/2022,Thursday,Steak,0,300,0,79.94,50.28
+7/28/2022,Thursday,Sinta steak,0,300,0,87.99,29.01
+7/28/2022,Thursday,Tomato,0,172,6.748,1.526,0.344
+7/28/2022,Thursday,Sherry Tomato,0,10,0.392,0.088,0.02
+7/28/2022,Thursday,Mushroom,7,25,0.82,0.773,0.085
+7/28/2022,Thursday,Pita Bread (cusmin),0.5,87.5,28.7,9.3625,1.1375
+7/28/2022,Thursday,Cottege 3%,0,250,3.75,27.5,7.5
+7/28/2022,Thursday,Cottege 5%,1,250,3.75,27.5,12.5
+7/28/2022,Thursday,Tuna Can (Water),0,112,0,27.776,0.672
+7/28/2022,Thursday,Tuna Can (Oil),0,160,0,38.4,20.8
+7/28/2022,Thursday,Squash,1.8,218,4.31,0.91,0.31
+7/28/2022,Thursday,Kashio Nut,10,2,0.604,0.364,0.877
+7/28/2022,Thursday,Almond,10,1,0.217,0.212,0.494
+7/28/2022,Thursday,Tamar ,6,17,12.745,0.308,0.026
+7/28/2022,Thursday,Potato,1,175,37.012,4.375,0.228
+7/29/2022,Friday,Avocado,0,174,14.842,3.48,25.508
+7/29/2022,Friday,WaterMelon,0,250,18.875,1.525,0.375
+7/29/2022,Friday,Espresso,6,0.04,0,0,0.072
+7/29/2022,Friday,Actimel,0,108,5,2.8,1.6
+7/29/2022,Friday,Friday Dinner,1,1000,80,80,40
+7/29/2022,Friday,Beer,0,330,11.715,1.518,0
+7/29/2022,Friday,Sweet Potato,0,596,119.915,9.357,0.298
+7/29/2022,Friday,Egg,0,58,0.65,7.296,6.154
+7/29/2022,Friday,Banana,1,101,23.068,1.101,0.333
+7/29/2022,Friday,Yellow Cheece,0,18.18,0.036,4.3,5.09
+7/29/2022,Friday,Gamba,0,185,11.156,1.832,0.555
+7/29/2022,Friday,Hamburger,0,100,1,15,10
+7/29/2022,Friday,Green Olives,0,2,0.077,0.021,0.306
+7/29/2022,Friday,Chicken Breast,1,125,0,26.538,3.238
+7/29/2022,Friday,Greek Yogurt,0,130,5.5,7.2,8.5
+7/29/2022,Friday,Yougort Pro,0,150,5.4,13.4,0
+7/29/2022,Friday,Yoplle,0,150,19.8,4.65,4.5
+7/29/2022,Friday,Eggplant,0,42,6.384,0.882,4.158
+7/29/2022,Friday,Thina,3,15,1.605,3.825,9.015
+7/29/2022,Friday,Matbuha,0,15,1.575,0.255,0.495
+7/29/2022,Friday,Masabaha,0,42,4.2,2.73,9.24
+7/29/2022,Friday,Ketchup,0,19,4.579,0.171,0.019
+7/29/2022,Friday,Honey,0,9,7.416,0.027,0
+7/29/2022,Friday,Beatroot,0,120,11.472,1.932,0.204
+7/29/2022,Friday,Tziki,0,20,0.98,1.88,0.9
+7/29/2022,Friday,Unknown,0,100,20,20,20
+7/29/2022,Friday,Hamburger Bun,0,85,41.82,7.905,3.315
+7/29/2022,Friday,Cucumber,0,96,3.485,0.624,0.106
+7/29/2022,Friday,Mango,1,246,41.82,1.255,0.664
+7/29/2022,Friday,Persian Rice,0,166,37.184,3.652,10.956
+7/29/2022,Friday,Sausage,0,100,2,20,10
+7/29/2022,Friday,Sabih,0,220,58.08,16.5,20.24
+7/29/2022,Friday,Steak,0,300,0,79.94,50.28
+7/29/2022,Friday,Sinta steak,0,300,0,87.99,29.01
+7/29/2022,Friday,Tomato,1,172,6.748,1.526,0.344
+7/29/2022,Friday,Sherry Tomato,0,10,0.392,0.088,0.02
+7/29/2022,Friday,Mushroom,0,25,0.82,0.773,0.085
+7/29/2022,Friday,Pita Bread (cusmin),2,87.5,28.7,9.3625,1.1375
+7/29/2022,Friday,Pita bread,0,74,30.34,0.518,0.222
+7/29/2022,Friday,Cottege 3%,0,250,3.75,27.5,7.5
+7/29/2022,Friday,Cottege 5%,0,250,3.75,27.5,12.5
+7/29/2022,Friday,Tuna Can (Water),0,112,0,27.776,0.672
+7/29/2022,Friday,Tuna Can (Oil),1,160,0,38.4,20.8
+7/29/2022,Friday,Squash,0,218,4.31,0.91,0.31
+7/29/2022,Friday,Kashio Nut,15,2,0.604,0.364,0.877
+7/29/2022,Friday,Almond,10,1,0.217,0.212,0.494
+7/29/2022,Friday,Tamar ,5,17,12.745,0.308,0.026
+7/29/2022,Friday,Potato,0,175,37.012,4.375,0.228
+7/30/2022,Saturday,Avocado,0,174,14.842,3.48,25.508
+7/30/2022,Saturday,WaterMelon,0,250,18.875,1.525,0.375
+7/30/2022,Saturday,Espresso,5,0.04,0,0,0.072
+7/30/2022,Saturday,Actimel,0,108,5,2.8,1.6
+7/30/2022,Saturday,Friday Dinner,1.3,1000,95,69,40
+7/30/2022,Saturday,Beer,0,330,11.715,1.518,0
+7/30/2022,Saturday,Sweet Potato,0,596,119.915,9.357,0.298
+7/30/2022,Saturday,Egg,1,58,0.65,7.296,6.154
+7/30/2022,Saturday,Banana,0,101,23.068,1.101,0.333
+7/30/2022,Saturday,Yellow Cheece,0,18.18,0.036,4.3,5.09
+7/30/2022,Saturday,Gamba,0,185,11.156,1.832,0.555
+7/30/2022,Saturday,Hamburger,0,100,1,15,10
+7/30/2022,Saturday,Green Olives,0,2,0.077,0.021,0.306
+7/30/2022,Saturday,Chicken Breast,0,125,0,26.538,3.238
+7/30/2022,Saturday,Greek Yogurt,0,130,5.5,7.2,8.5
+7/30/2022,Saturday,Yougort Pro,0,150,5.4,13.4,0
+7/30/2022,Saturday,Yoplle,1,150,19.8,4.65,4.5
+7/30/2022,Saturday,Eggplant,0,42,6.384,0.882,4.158
+7/30/2022,Saturday,Thina,0,15,1.605,3.825,9.015
+7/30/2022,Saturday,Matbuha,0,15,1.575,0.255,0.495
+7/30/2022,Saturday,Masabaha,0,42,4.2,2.73,9.24
+7/30/2022,Saturday,Ketchup,0,19,4.579,0.171,0.019
+7/30/2022,Saturday,Honey,0,9,7.416,0.027,0
+7/30/2022,Saturday,Beatroot,0,120,11.472,1.932,0.204
+7/30/2022,Saturday,Tziki,0,20,0.98,1.88,0.9
+7/30/2022,Saturday,Unknown,0,100,20,20,20
+7/30/2022,Saturday,Hamburger Bun,0,85,41.82,7.905,3.315
+7/30/2022,Saturday,Cucumber,1,96,3.485,0.624,0.106
+7/30/2022,Saturday,Mango,0,246,41.82,1.255,0.664
+7/30/2022,Saturday,Persian Rice,0,166,37.184,3.652,10.956
+7/30/2022,Saturday,Sausage,0,100,2,20,10
+7/30/2022,Saturday,Sabih,0,220,58.08,16.5,20.24
+7/30/2022,Saturday,Steak,0,300,0,79.94,50.28
+7/30/2022,Saturday,Sinta steak,0,300,0,87.99,29.01
+7/30/2022,Saturday,Cavige salad,1,100,12.88,1.47,11.08
+7/30/2022,Saturday,Tomato,0,172,6.748,1.526,0.344
+7/30/2022,Saturday,Sherry Tomato,0,10,0.392,0.088,0.02
+7/30/2022,Saturday,Mushroom,0,25,0.82,0.773,0.085
+7/30/2022,Saturday,Pita Bread (cusmin),0.5,87.5,28.7,9.3625,1.1375
+7/30/2022,Saturday,Pita bread,0,74,30.34,0.518,0.222
+7/30/2022,Saturday,Cottege 3%,0,250,3.75,27.5,7.5
+7/30/2022,Saturday,Cottege 5%,0,250,3.75,27.5,12.5
+7/30/2022,Saturday,Tuna Can (Water),0,112,0,27.776,0.672
+7/30/2022,Saturday,Tuna Can (Oil),0,160,0,38.4,20.8
+7/30/2022,Saturday,Squash,0,218,4.31,0.91,0.31
+7/30/2022,Saturday,Kashio Nut,5,2,0.604,0.364,0.877
+7/30/2022,Saturday,Green Beans,1,100,6.97,1.83,0.22
+7/30/2022,Saturday,Almond,0,1,0.217,0.212,0.494
+7/30/2022,Saturday,Tamar ,3,17,12.745,0.308,0.026
+7/30/2022,Saturday,Potato,0,175,37.012,4.375,0.228
+7/31/2022,Sunday,Avocado,0,174,14.842,3.48,25.508
+7/31/2022,Sunday,WaterMelon,2,250,18.875,1.525,0.375
+7/31/2022,Sunday,Espresso,6,0.04,0,0,0.072
+7/31/2022,Sunday,Actimel,0,108,5,2.8,1.6
+7/31/2022,Sunday,Friday Dinner,0,1000,95,69,40
+7/31/2022,Sunday,Beer,0,330,11.715,1.518,0
+7/31/2022,Sunday,Sweet Potato,0.5,596,119.915,9.357,0.298
+7/31/2022,Sunday,Egg,1,58,0.65,7.296,6.154
+7/31/2022,Sunday,Banana,1,101,23.068,1.101,0.333
+7/31/2022,Sunday,Yellow Cheece,0,18.18,0.036,4.3,5.09
+7/31/2022,Sunday,Gamba,0,185,11.156,1.832,0.555
+7/31/2022,Sunday,Hamburger,0,100,1,15,10
+7/31/2022,Sunday,Green Olives,0,2,0.077,0.021,0.306
+7/31/2022,Sunday,Chicken Breast,2,125,0,26.538,3.238
+7/31/2022,Sunday,Greek Yogurt,0,130,5.5,7.2,8.5
+7/31/2022,Sunday,Yougort Pro,0,150,5.4,13.4,0
+7/31/2022,Sunday,Yoplle,2,150,19.8,4.65,4.5
+7/31/2022,Sunday,Eggplant,0,42,6.384,0.882,4.158
+7/31/2022,Sunday,Thina,0,15,1.605,3.825,9.015
+7/31/2022,Sunday,Matbuha,2,15,1.575,0.255,0.495
+7/31/2022,Sunday,Masabaha,0,42,4.2,2.73,9.24
+7/31/2022,Sunday,Ketchup,0,19,4.579,0.171,0.019
+7/31/2022,Sunday,Honey,0,9,7.416,0.027,0
+7/31/2022,Sunday,Beatroot,0,120,11.472,1.932,0.204
+7/31/2022,Sunday,Tziki,0,20,0.98,1.88,0.9
+7/31/2022,Sunday,Unknown,0,100,20,20,20
+7/31/2022,Sunday,Hamburger Bun,0,85,41.82,7.905,3.315
+7/31/2022,Sunday,Cucumber,1,96,3.485,0.624,0.106
+7/31/2022,Sunday,Mango,0,246,41.82,1.255,0.664
+7/31/2022,Sunday,Persian Rice,0,166,37.184,3.652,10.956
+7/31/2022,Sunday,Sausage,0,100,2,20,10
+7/31/2022,Sunday,Sabih,0,220,58.08,16.5,20.24
+7/31/2022,Sunday,Steak,0,300,0,79.94,50.28
+7/31/2022,Sunday,Sinta steak,0,300,0,87.99,29.01
+7/31/2022,Sunday,Cavige salad,0,100,12.88,1.47,11.08
+7/31/2022,Sunday,Tomato,0,172,6.748,1.526,0.344
+7/31/2022,Sunday,Sherry Tomato,0,10,0.392,0.088,0.02
+7/31/2022,Sunday,Mushroom,0,25,0.82,0.773,0.085
+7/31/2022,Sunday,Pita Bread (cusmin),1.5,87.5,28.7,9.3625,1.1375
+7/31/2022,Sunday,Pita bread,0,74,30.34,0.518,0.222
+7/31/2022,Sunday,Cottege 3%,0,250,3.75,27.5,7.5
+7/31/2022,Sunday,Cottege 5%,1,250,3.75,27.5,12.5
+7/31/2022,Sunday,Tuna Can (Water),0,112,0,27.776,0.672
+7/31/2022,Sunday,Tuna Can (Oil),0,160,0,38.4,20.8
+7/31/2022,Sunday,Squash,0,218,4.31,0.91,0.31
+7/31/2022,Sunday,Kashio Nut,10,2,0.604,0.364,0.877
+7/31/2022,Sunday,Green Beans,0,100,6.97,1.83,0.22
+7/31/2022,Sunday,Almond,10,1,0.217,0.212,0.494
+7/31/2022,Sunday,Tamar ,7,17,12.745,0.308,0.026
+7/31/2022,Sunday,Potato,2,175,37.012,4.375,0.228
+8/1/2022,Monday,Avocado,0,174,14.842,3.48,25.508
+8/1/2022,Monday,WaterMelon,2.5,250,18.875,1.525,0.375
+8/1/2022,Monday,Espresso,6,0.04,0,0,0.072
+8/1/2022,Monday,Actimel,0,108,5,2.8,1.6
+8/1/2022,Monday,Friday Dinner,0,1000,95,69,40
+8/1/2022,Monday,Beer,0,330,11.715,1.518,0
+8/1/2022,Monday,Sweet Potato,0,596,119.915,9.357,0.298
+8/1/2022,Monday,Egg,2,58,0.65,7.296,6.154
+8/1/2022,Monday,Banana,1,101,23.068,1.101,0.333
+8/1/2022,Monday,Yellow Cheece,0,18.18,0.036,4.3,5.09
+8/1/2022,Monday,Gamba,1.8,185,11.156,1.832,0.555
+8/1/2022,Monday,Hamburger,0,100,1,15,10
+8/1/2022,Monday,Green Olives,0,2,0.077,0.021,0.306
+8/1/2022,Monday,Chicken Breast,2,125,0,26.538,3.238
+8/1/2022,Monday,Greek Yogurt,0,130,5.5,7.2,8.5
+8/1/2022,Monday,Yougort Pro,0,150,5.4,13.4,0
+8/1/2022,Monday,Yoplle,0,150,19.8,4.65,4.5
+8/1/2022,Monday,Eggplant,0,42,6.384,0.882,4.158
+8/1/2022,Monday,Thina,2,15,1.605,3.825,9.015
+8/1/2022,Monday,Matbuha,0,15,1.575,0.255,0.495
+8/1/2022,Monday,Masabaha,0,42,4.2,2.73,9.24
+8/1/2022,Monday,Ketchup,0,19,4.579,0.171,0.019
+8/1/2022,Monday,Honey,0,9,7.416,0.027,0
+8/1/2022,Monday,Sour Cavige,5,32,1.12,0.32,0
+8/1/2022,Monday,Beatroot,0,120,11.472,1.932,0.204
+8/1/2022,Monday,Tziki,0,20,0.98,1.88,0.9
+8/1/2022,Monday,Unknown,0,100,20,20,20
+8/1/2022,Monday,Hamburger Bun,0,85,41.82,7.905,3.315
+8/1/2022,Monday,Cucumber,1,96,3.485,0.624,0.106
+8/1/2022,Monday,Mango,0,246,41.82,1.255,0.664
+8/1/2022,Monday,Persian Rice,0,166,37.184,3.652,10.956
+8/1/2022,Monday,Sausage,0,100,2,20,10
+8/1/2022,Monday,Sabih,0,220,58.08,16.5,20.24
+8/1/2022,Monday,Steak,0,300,0,79.94,50.28
+8/1/2022,Monday,Sinta steak,0,300,0,87.99,29.01
+8/1/2022,Monday,Cavige salad,0,100,12.88,1.47,11.08
+8/1/2022,Monday,Tomato,1,172,6.748,1.526,0.344
+8/1/2022,Monday,Sherry Tomato,0,10,0.392,0.088,0.02
+8/1/2022,Monday,Mushroom,7,25,0.82,0.773,0.085
+8/1/2022,Monday,Pita Bread (cusmin),1,87.5,28.7,9.3625,1.1375
+8/1/2022,Monday,Pita bread,0,74,30.34,0.518,0.222
+8/1/2022,Monday,Cottege 3%,0,250,3.75,27.5,7.5
+8/1/2022,Monday,Cottege 5%,1,250,3.75,27.5,12.5
+8/1/2022,Monday,Tuna Can (Water),1,112,0,27.776,0.672
+8/1/2022,Monday,Tuna Can (Oil),0,160,0,38.4,20.8
+8/1/2022,Monday,Squash,1.5,218,4.31,0.91,0.31
+8/1/2022,Monday,Kashio Nut,12,2,0.604,0.364,0.877
+8/1/2022,Monday,Green Beans,0,100,6.97,1.83,0.22
+8/1/2022,Monday,Almond,17,1,0.217,0.212,0.494
+8/1/2022,Monday,Tamar ,6,17,12.745,0.308,0.026
+8/1/2022,Monday,Potato,0,175,37.012,4.375,0.228
+8/2/2022,Tuesday,Avocado,0,174,14.842,3.48,25.508
+8/2/2022,Tuesday,WaterMelon,1,250,18.875,1.525,0.375
+8/2/2022,Tuesday,Espresso,6,0.04,0,0,0.072
+8/2/2022,Tuesday,Actimel,1,108,5,2.8,1.6
+8/2/2022,Tuesday,Friday Dinner,0,1000,95,69,40
+8/2/2022,Tuesday,Beer,0,330,11.715,1.518,0
+8/2/2022,Tuesday,Sweet Potato,0,596,119.915,9.357,0.298
+8/2/2022,Tuesday,Egg,2,58,0.65,7.296,6.154
+8/2/2022,Tuesday,Banana,0,101,23.068,1.101,0.333
+8/2/2022,Tuesday,Yellow Cheece,2,18.18,0.036,4.3,5.09
+8/2/2022,Tuesday,Gamba,1,185,11.156,1.832,0.555
+8/2/2022,Tuesday,Hamburger,0,100,1,15,10
+8/2/2022,Tuesday,Green Olives,0,2,0.077,0.021,0.306
+8/2/2022,Tuesday,Chicken Breast,2,125,0,26.538,3.238
+8/2/2022,Tuesday,Greek Yogurt,0,130,5.5,7.2,8.5
+8/2/2022,Tuesday,Yougort Pro,0,150,5.4,13.4,0
+8/2/2022,Tuesday,Yoplle,2,150,19.8,4.65,4.5
+8/2/2022,Tuesday,Eggplant,0,42,6.384,0.882,4.158
+8/2/2022,Tuesday,Thina,2,15,1.605,3.825,9.015
+8/2/2022,Tuesday,Matbuha,2,15,1.575,0.255,0.495
+8/2/2022,Tuesday,Masabaha,0,42,4.2,2.73,9.24
+8/2/2022,Tuesday,Ketchup,0,19,4.579,0.171,0.019
+8/2/2022,Tuesday,Honey,0,9,7.416,0.027,0
+8/2/2022,Tuesday,Sour Cavige,5,32,1.12,0.32,0
+8/2/2022,Tuesday,Beatroot,0,120,11.472,1.932,0.204
+8/2/2022,Tuesday,Tziki,0,20,0.98,1.88,0.9
+8/2/2022,Tuesday,Unknown,0,100,20,20,20
+8/2/2022,Tuesday,Hamburger Bun,0,85,41.82,7.905,3.315
+8/2/2022,Tuesday,Cucumber,0,96,3.485,0.624,0.106
+8/2/2022,Tuesday,Mango,0,246,41.82,1.255,0.664
+8/2/2022,Tuesday,Persian Rice,0,166,37.184,3.652,10.956
+8/2/2022,Tuesday,Sausage,0,100,2,20,10
+8/2/2022,Tuesday,Sabih,0,220,58.08,16.5,20.24
+8/2/2022,Tuesday,Steak,0,300,0,79.94,50.28
+8/2/2022,Tuesday,Sinta steak,0,300,0,87.99,29.01
+8/2/2022,Tuesday,Cavige salad,0,100,12.88,1.47,11.08
+8/2/2022,Tuesday,Tomato,0,172,6.748,1.526,0.344
+8/2/2022,Tuesday,Sherry Tomato,0,10,0.392,0.088,0.02
+8/2/2022,Tuesday,Mushroom,6,25,0.82,0.773,0.085
+8/2/2022,Tuesday,Pita Bread (cusmin),3.5,87.5,28.7,9.3625,1.1375
+8/2/2022,Tuesday,Pita bread,0,74,30.34,0.518,0.222
+8/2/2022,Tuesday,Cottege 3%,0,250,3.75,27.5,7.5
+8/2/2022,Tuesday,Cottege 5%,0,250,3.75,27.5,12.5
+8/2/2022,Tuesday,Tuna Can (Water),0,112,0,27.776,0.672
+8/2/2022,Tuesday,Tuna Can (Oil),0,160,0,38.4,20.8
+8/2/2022,Tuesday,Squash,1,218,4.31,0.91,0.31
+8/2/2022,Tuesday,Kashio Nut,15,2,0.604,0.364,0.877
+8/2/2022,Tuesday,Green Beans,0,100,6.97,1.83,0.22
+8/2/2022,Tuesday,Almond,10,1,0.217,0.212,0.494
+8/2/2022,Tuesday,Tamar ,7,17,12.745,0.308,0.026
+8/2/2022,Tuesday,Potato,0.7,175,37.012,4.375,0.228
+8/3/2022,Wednesday,Avocado,0,174,14.842,3.48,25.508
+8/3/2022,Wednesday,WaterMelon,1,250,18.875,1.525,0.375
+8/3/2022,Wednesday,Espresso,6,0.04,0,0,0.072
+8/3/2022,Wednesday,Actimel,0,108,5,2.8,1.6
+8/3/2022,Wednesday,Friday Dinner,0,1000,95,69,40
+8/3/2022,Wednesday,Beer,0,330,11.715,1.518,0
+8/3/2022,Wednesday,Sweet Potato,0,596,119.915,9.357,0.298
+8/3/2022,Wednesday,Egg,2,58,0.65,7.296,6.154
+8/3/2022,Wednesday,Banana,0,101,23.068,1.101,0.333
+8/3/2022,Wednesday,Yellow Cheece,0,18.18,0.036,4.3,5.09
+8/3/2022,Wednesday,Gamba,1.2,185,11.156,1.832,0.555
+8/3/2022,Wednesday,Hamburger,0,100,1,15,10
+8/3/2022,Wednesday,Green Olives,8,2,0.077,0.021,0.306
+8/3/2022,Wednesday,Chicken Breast,1,125,0,26.538,3.238
+8/3/2022,Wednesday,Greek Yogurt,0,130,5.5,7.2,8.5
+8/3/2022,Wednesday,Yougort Pro,1,150,5.4,13.4,0
+8/3/2022,Wednesday,Yoplle,1,150,19.8,4.65,4.5
+8/3/2022,Wednesday,Eggplant,0,42,6.384,0.882,4.158
+8/3/2022,Wednesday,Thina,2,15,1.605,3.825,9.015
+8/3/2022,Wednesday,Matbuha,0,15,1.575,0.255,0.495
+8/3/2022,Wednesday,Masabaha,0,42,4.2,2.73,9.24
+8/3/2022,Wednesday,Ketchup,0,19,4.579,0.171,0.019
+8/3/2022,Wednesday,Honey,0,9,7.416,0.027,0
+8/3/2022,Wednesday,Sour Cavige,0,32,1.12,0.32,0
+8/3/2022,Wednesday,Beatroot,0,120,11.472,1.932,0.204
+8/3/2022,Wednesday,Tziki,0,20,0.98,1.88,0.9
+8/3/2022,Wednesday,Unknown,0,100,20,20,20
+8/3/2022,Wednesday,Hamburger Bun,0,85,41.82,7.905,3.315
+8/3/2022,Wednesday,Cucumber,0,96,3.485,0.624,0.106
+8/3/2022,Wednesday,Pickles,2,28,0.633,0.092,0.056
+8/3/2022,Wednesday,Mango,0,246,41.82,1.255,0.664
+8/3/2022,Wednesday,Persian Rice,0,166,37.184,3.652,10.956
+8/3/2022,Wednesday,Sausage,0,100,2,20,10
+8/3/2022,Wednesday,Sabih,0,220,58.08,16.5,20.24
+8/3/2022,Wednesday,Steak,0.5,300,0,79.94,50.28
+8/3/2022,Wednesday,Sinta steak,0,300,0,87.99,29.01
+8/3/2022,Wednesday,Cavige salad,0,100,12.88,1.47,11.08
+8/3/2022,Wednesday,Tomato,0,172,6.748,1.526,0.344
+8/3/2022,Wednesday,Sherry Tomato,10,10,0.392,0.088,0.02
+8/3/2022,Wednesday,Mushroom,6,25,0.82,0.773,0.085
+8/3/2022,Wednesday,Pita Bread (cusmin),3,87.5,28.7,9.3625,1.1375
+8/3/2022,Wednesday,Pita bread,0,74,30.34,0.518,0.222
+8/3/2022,Wednesday,Cottege 3%,0,250,3.75,27.5,7.5
+8/3/2022,Wednesday,Cottege 5%,0.8,250,3.75,27.5,12.5
+8/3/2022,Wednesday,Tuna Can (Water),0,112,0,27.776,0.672
+8/3/2022,Wednesday,Tuna Can (Oil),0,160,0,38.4,20.8
+8/3/2022,Wednesday,Squash,0,218,4.31,0.91,0.31
+8/3/2022,Wednesday,Kashio Nut,0,2,0.604,0.364,0.877
+8/3/2022,Wednesday,Green Beans,0,100,6.97,1.83,0.22
+8/3/2022,Wednesday,Almond,5,1,0.217,0.212,0.494
+8/3/2022,Wednesday,Tamar ,4,17,12.745,0.308,0.026
+8/3/2022,Wednesday,Potato,0,175,37.012,4.375,0.228
+8/4/2022,Thursday,Avocado,0,174,14.842,3.48,25.508
+8/4/2022,Thursday,WaterMelon,1,250,18.875,1.525,0.375
+8/4/2022,Thursday,Wallnut,3,5,0.686,0.762,3.261
+8/4/2022,Thursday,Espresso,7,0.04,0,0,0.072
+8/4/2022,Thursday,Actimel,0,108,5,2.8,1.6
+8/4/2022,Thursday,Friday Dinner,0,1000,95,69,40
+8/4/2022,Thursday,Beer,0,330,11.715,1.518,0
+8/4/2022,Thursday,Sweet Potato,0,596,119.915,9.357,0.298
+8/4/2022,Thursday,Egg,2,58,0.65,7.296,6.154
+8/4/2022,Thursday,Banana,0,101,23.068,1.101,0.333
+8/4/2022,Thursday,Yellow Cheece,2,18.18,0.036,4.3,5.09
+8/4/2022,Thursday,Gamba,2,185,11.156,1.832,0.555
+8/4/2022,Thursday,Hamburger,0,100,1,15,10
+8/4/2022,Thursday,Green Olives,14,2,0.077,0.021,0.306
+8/4/2022,Thursday,Chicken Breast,2.5,125,0,26.538,3.238
+8/4/2022,Thursday,Greek Yogurt,0,130,5.5,7.2,8.5
+8/4/2022,Thursday,Yougort Pro,0,150,5.4,13.4,0
+8/4/2022,Thursday,Yoplle,1,150,19.8,4.65,4.5
+8/4/2022,Thursday,Eggplant,0,42,6.384,0.882,4.158
+8/4/2022,Thursday,Thina,0,15,1.605,3.825,9.015
+8/4/2022,Thursday,Matbuha,0,15,1.575,0.255,0.495
+8/4/2022,Thursday,Masabaha,0,42,4.2,2.73,9.24
+8/4/2022,Thursday,Ketchup,0,19,4.579,0.171,0.019
+8/4/2022,Thursday,Honey,0,9,7.416,0.027,0
+8/4/2022,Thursday,Sour Cavige,0,32,1.12,0.32,0
+8/4/2022,Thursday,Beatroot,0,120,11.472,1.932,0.204
+8/4/2022,Thursday,Tziki,0,20,0.98,1.88,0.9
+8/4/2022,Thursday,Unknown,0,100,20,20,20
+8/4/2022,Thursday,Hamburger Bun,0,85,41.82,7.905,3.315
+8/4/2022,Thursday,Cucumber,0,96,3.485,0.624,0.106
+8/4/2022,Thursday,Pickles,0,28,0.633,0.092,0.056
+8/4/2022,Thursday,Mango,0,246,41.82,1.255,0.664
+8/4/2022,Thursday,Persian Rice,0,166,37.184,3.652,10.956
+8/4/2022,Thursday,Sausage,0,100,2,20,10
+8/4/2022,Thursday,Sabih,0,220,58.08,16.5,20.24
+8/4/2022,Thursday,Steak,0,300,0,79.94,50.28
+8/4/2022,Thursday,Sinta steak,0,300,0,87.99,29.01
+8/4/2022,Thursday,Cavige salad,0,100,12.88,1.47,11.08
+8/4/2022,Thursday,Tomato,0,172,6.748,1.526,0.344
+8/4/2022,Thursday,Sherry Tomato,5,10,0.392,0.088,0.02
+8/4/2022,Thursday,Mushroom,0,25,0.82,0.773,0.085
+8/4/2022,Thursday,Pita Bread (cusmin),2,87.5,28.7,9.3625,1.1375
+8/4/2022,Thursday,Pita bread,0,74,30.34,0.518,0.222
+8/4/2022,Thursday,Cottege 3%,0,250,3.75,27.5,7.5
+8/4/2022,Thursday,Cottege 5%,2,250,3.75,27.5,12.5
+8/4/2022,Thursday,Tuna Can (Water),0,112,0,27.776,0.672
+8/4/2022,Thursday,Tuna Can (Oil),0,160,0,38.4,20.8
+8/4/2022,Thursday,Squash,0,218,4.31,0.91,0.31
+8/4/2022,Thursday,Kashio Nut,11,2,0.604,0.364,0.877
+8/4/2022,Thursday,Green Beans,0,100,6.97,1.83,0.22
+8/4/2022,Thursday,Almond,0,1,0.217,0.212,0.494
+8/4/2022,Thursday,Tamar ,6,17,12.745,0.308,0.026
+8/4/2022,Thursday,Potato,1.5,175,37.012,4.375,0.228
+8/5/2022,Friday,Avocado,0,174,14.842,3.48,25.508
+8/5/2022,Friday,WaterMelon,1,250,18.875,1.525,0.375
+8/5/2022,Friday,Wallnut,3,5,0.686,0.762,3.261
+8/5/2022,Friday,Espresso,5,0.04,0,0,0.072
+8/5/2022,Friday,Actimel,0,108,5,2.8,1.6
+8/5/2022,Friday,Friday Dinner,1,1000,95,69,40
+8/5/2022,Friday,Beer,0,330,11.715,1.518,0
+8/5/2022,Friday,Sweet Potato,0,596,119.915,9.357,0.298
+8/5/2022,Friday,Egg,2,58,0.65,7.296,6.154
+8/5/2022,Friday,Banana,0,101,23.068,1.101,0.333
+8/5/2022,Friday,Yellow Cheece,2.5,18.18,0.036,4.3,5.09
+8/5/2022,Friday,Gamba,0,185,11.156,1.832,0.555
+8/5/2022,Friday,Hamburger,0,100,1,15,10
+8/5/2022,Friday,Green Olives,14,2,0.077,0.021,0.306
+8/5/2022,Friday,Chicken Breast,0,125,0,26.538,3.238
+8/5/2022,Friday,Greek Yogurt,0,130,5.5,7.2,8.5
+8/5/2022,Friday,Yougort Pro,0,150,5.4,13.4,0
+8/5/2022,Friday,Yoplle,1,150,19.8,4.65,4.5
+8/5/2022,Friday,Eggplant,0,42,6.384,0.882,4.158
+8/5/2022,Friday,Thina,3,15,1.605,3.825,9.015
+8/5/2022,Friday,Matbuha,0,15,1.575,0.255,0.495
+8/5/2022,Friday,Masabaha,0,42,4.2,2.73,9.24
+8/5/2022,Friday,Ketchup,0,19,4.579,0.171,0.019
+8/5/2022,Friday,Honey,0,9,7.416,0.027,0
+8/5/2022,Friday,Sour Cavige,0,32,1.12,0.32,0
+8/5/2022,Friday,Beatroot,0,120,11.472,1.932,0.204
+8/5/2022,Friday,Tziki,0,20,0.98,1.88,0.9
+8/5/2022,Friday,Unknown,0,100,20,20,20
+8/5/2022,Friday,Bread,2,30,13.59,2.61,0.69
+8/5/2022,Friday,Hamburger Bun,0,85,41.82,7.905,3.315
+8/5/2022,Friday,Cucumber,0,96,3.485,0.624,0.106
+8/5/2022,Friday,Pickles,0,28,0.633,0.092,0.056
+8/5/2022,Friday,Mango,0,246,41.82,1.255,0.664
+8/5/2022,Friday,Persian Rice,0,166,37.184,3.652,10.956
+8/5/2022,Friday,Sausage,0,100,2,20,10
+8/5/2022,Friday,Sabih,0,220,58.08,16.5,20.24
+8/5/2022,Friday,Steak,0,300,0,79.94,50.28
+8/5/2022,Friday,Sinta steak,0,300,0,87.99,29.01
+8/5/2022,Friday,Cavige salad,0,100,12.88,1.47,11.08
+8/5/2022,Friday,Tomato,0,172,6.748,1.526,0.344
+8/5/2022,Friday,Sherry Tomato,0,10,0.392,0.088,0.02
+8/5/2022,Friday,Mushroom,0,25,0.82,0.773,0.085
+8/5/2022,Friday,Pita Bread (cusmin),1,87.5,28.7,9.3625,1.1375
+8/5/2022,Friday,Pita bread,0,74,30.34,0.518,0.222
+8/5/2022,Friday,Cottege 3%,0,250,3.75,27.5,7.5
+8/5/2022,Friday,Cottege 5%,0,250,3.75,27.5,12.5
+8/5/2022,Friday,Tuna Can (Water),0,112,0,27.776,0.672
+8/5/2022,Friday,Tuna Can (Oil),0.7,160,0,38.4,20.8
+8/5/2022,Friday,Squash,0,218,4.31,0.91,0.31
+8/5/2022,Friday,Kashio Nut,20,2,0.604,0.364,0.877
+8/5/2022,Friday,Green Beans,0,100,6.97,1.83,0.22
+8/5/2022,Friday,Almond,0,1,0.217,0.212,0.494
+8/5/2022,Friday,Tamar ,5,17,12.745,0.308,0.026
+8/5/2022,Friday,Potato,0,175,37.012,4.375,0.228
+8/6/2022,Saturday,Avocado,0,174,14.842,3.48,25.508
+8/6/2022,Saturday,WaterMelon,2,250,18.875,1.525,0.375
+8/6/2022,Saturday,Wallnut,0,5,0.686,0.762,3.261
+8/6/2022,Saturday,Espresso,6,0.04,0,0,0.072
+8/6/2022,Saturday,Actimel,0,108,5,2.8,1.6
+8/6/2022,Saturday,Friday Dinner,0,1000,95,69,40
+8/6/2022,Saturday,Beer,0,330,11.715,1.518,0
+8/6/2022,Saturday,Sweet Potato,0,596,119.915,9.357,0.298
+8/6/2022,Saturday,Egg,2,58,0.65,7.296,6.154
+8/6/2022,Saturday,Banana,0,101,23.068,1.101,0.333
+8/6/2022,Saturday,Yellow Cheece,0,18.18,0.036,4.3,5.09
+8/6/2022,Saturday,Gamba,0,185,11.156,1.832,0.555
+8/6/2022,Saturday,Hamburger,0,100,1,15,10
+8/6/2022,Saturday,Green Olives,0,2,0.077,0.021,0.306
+8/6/2022,Saturday,Chicken Breast,0,125,0,26.538,3.238
+8/6/2022,Saturday,Greek Yogurt,0,130,5.5,7.2,8.5
+8/6/2022,Saturday,Yougort Pro,0,150,5.4,13.4,0
+8/6/2022,Saturday,Yoplle,0,150,19.8,4.65,4.5
+8/6/2022,Saturday,Eggplant,0,42,6.384,0.882,4.158
+8/6/2022,Saturday,Thina,2,15,1.605,3.825,9.015
+8/6/2022,Saturday,Matbuha,0,15,1.575,0.255,0.495
+8/6/2022,Saturday,Masabaha,0,42,4.2,2.73,9.24
+8/6/2022,Saturday,Ketchup,0,19,4.579,0.171,0.019
+8/6/2022,Saturday,Honey,0,9,7.416,0.027,0
+8/6/2022,Saturday,Sour Cavige,0,32,1.12,0.32,0
+8/6/2022,Saturday,Beatroot,1.3,120,11.472,1.932,0.204
+8/6/2022,Saturday,Tziki,0,20,0.98,1.88,0.9
+8/6/2022,Saturday,Unknown,0,100,20,20,20
+8/6/2022,Saturday,Bread,0,30,13.59,2.61,0.69
+8/6/2022,Saturday,Hamburger Bun,0,85,41.82,7.905,3.315
+8/6/2022,Saturday,Cucumber,1,96,3.485,0.624,0.106
+8/6/2022,Saturday,Pickles,0,28,0.633,0.092,0.056
+8/6/2022,Saturday,Mango,0,246,41.82,1.255,0.664
+8/6/2022,Saturday,Persian Rice,1,166,37.184,3.652,10.956
+8/6/2022,Saturday,Sausage,0,100,2,20,10
+8/6/2022,Saturday,Sabih,0,220,58.08,16.5,20.24
+8/6/2022,Saturday,Steak,0,300,0,79.94,50.28
+8/6/2022,Saturday,Sinta steak,0,300,0,87.99,29.01
+8/6/2022,Saturday,Cavige salad,0,100,12.88,1.47,11.08
+8/6/2022,Saturday,Tomato,1,172,6.748,1.526,0.344
+8/6/2022,Saturday,Sherry Tomato,2,10,0.392,0.088,0.02
+8/6/2022,Saturday,Mushroom,0,25,0.82,0.773,0.085
+8/6/2022,Saturday,Pizza,1.5,100,37,10,6
+8/6/2022,Saturday,Pita Bread (cusmin),1,87.5,28.7,9.3625,1.1375
+8/6/2022,Saturday,Pita bread,0,74,30.34,0.518,0.222
+8/6/2022,Saturday,Cottege 3%,0,250,3.75,27.5,7.5
+8/6/2022,Saturday,Cottege 5%,1,250,3.75,27.5,12.5
+8/6/2022,Saturday,Tuna Can (Water),0,112,0,27.776,0.672
+8/6/2022,Saturday,Tuna Can (Oil),0,160,0,38.4,20.8
+8/6/2022,Saturday,Squash,0,218,4.31,0.91,0.31
+8/6/2022,Saturday,Kashio Nut,10,2,0.604,0.364,0.877
+8/6/2022,Saturday,Green Beans,0,100,6.97,1.83,0.22
+8/6/2022,Saturday,Almond,0,1,0.217,0.212,0.494
+8/6/2022,Saturday,Tamar ,5,17,12.745,0.308,0.026
+8/6/2022,Saturday,Potato,0,175,37.012,4.375,0.228
+8/7/2022,Sunday,Avocado,0,174,14.842,3.48,25.508
+8/7/2022,Sunday,WaterMelon,3,250,18.875,1.525,0.375
+8/7/2022,Sunday,Wallnut,2,5,0.686,0.762,3.261
+8/7/2022,Sunday,Espresso,6,0.04,0,0,0.072
+8/7/2022,Sunday,Actimel,0,108,5,2.8,1.6
+8/7/2022,Sunday,Friday Dinner,0,1000,95,69,40
+8/7/2022,Sunday,Beer,0,330,11.715,1.518,0
+8/7/2022,Sunday,Sweet Potato,0,596,119.915,9.357,0.298
+8/7/2022,Sunday,Egg,2,58,0.65,7.296,6.154
+8/7/2022,Sunday,Banana,0,101,23.068,1.101,0.333
+8/7/2022,Sunday,Yellow Cheece,0,18.18,0.036,4.3,5.09
+8/7/2022,Sunday,Gamba,0.7,185,11.156,1.832,0.555
+8/7/2022,Sunday,Hamburger,0,100,1,15,10
+8/7/2022,Sunday,Green Olives,0,2,0.077,0.021,0.306
+8/7/2022,Sunday,Chicken Breast,3,125,0,26.538,3.238
+8/7/2022,Sunday,Greek Yogurt,0,130,5.5,7.2,8.5
+8/7/2022,Sunday,Yougort Pro,0,150,5.4,13.4,0
+8/7/2022,Sunday,Yoplle,0,150,19.8,4.65,4.5
+8/7/2022,Sunday,Eggplant,0,42,6.384,0.882,4.158
+8/7/2022,Sunday,Thina,2.2,15,1.605,3.825,9.015
+8/7/2022,Sunday,Matbuha,0,15,1.575,0.255,0.495
+8/7/2022,Sunday,Masabaha,0,42,4.2,2.73,9.24
+8/7/2022,Sunday,Ketchup,0,19,4.579,0.171,0.019
+8/7/2022,Sunday,Honey,0,9,7.416,0.027,0
+8/7/2022,Sunday,Sour Cavige,0,32,1.12,0.32,0
+8/7/2022,Sunday,Beatroot,0,120,11.472,1.932,0.204
+8/7/2022,Sunday,Tziki,0,20,0.98,1.88,0.9
+8/7/2022,Sunday,Unknown,0,100,20,20,20
+8/7/2022,Sunday,Bread,0,30,13.59,2.61,0.69
+8/7/2022,Sunday,Hamburger Bun,0,85,41.82,7.905,3.315
+8/7/2022,Sunday,Cucumber,0,96,3.485,0.624,0.106
+8/7/2022,Sunday,Pickles,0,28,0.633,0.092,0.056
+8/7/2022,Sunday,Mango,0,246,41.82,1.255,0.664
+8/7/2022,Sunday,Persian Rice,0,166,37.184,3.652,10.956
+8/7/2022,Sunday,Sausage,0,100,2,20,10
+8/7/2022,Sunday,Sabih,0,220,58.08,16.5,20.24
+8/7/2022,Sunday,Steak,0,300,0,79.94,50.28
+8/7/2022,Sunday,Sinta steak,0,300,0,87.99,29.01
+8/7/2022,Sunday,Cavige salad,0,100,12.88,1.47,11.08
+8/7/2022,Sunday,Tomato,0,172,6.748,1.526,0.344
+8/7/2022,Sunday,Sherry Tomato,0,10,0.392,0.088,0.02
+8/7/2022,Sunday,Mushroom,0,25,0.82,0.773,0.085
+8/7/2022,Sunday,Pizza,0,100,37,10,6
+8/7/2022,Sunday,Pita Bread (cusmin),3,87.5,28.7,9.3625,1.1375
+8/7/2022,Sunday,Pita bread,0,74,30.34,0.518,0.222
+8/7/2022,Sunday,Cottege 3%,0,250,3.75,27.5,7.5
+8/7/2022,Sunday,Cottege 5%,1,250,3.75,27.5,12.5
+8/7/2022,Sunday,Tuna Can (Water),0,112,0,27.776,0.672
+8/7/2022,Sunday,Tuna Can (Oil),1,160,0,38.4,20.8
+8/7/2022,Sunday,Squash,0,218,4.31,0.91,0.31
+8/7/2022,Sunday,Kashio Nut,6,2,0.604,0.364,0.877
+8/7/2022,Sunday,Green Beans,0,100,6.97,1.83,0.22
+8/7/2022,Sunday,Almond,6,1,0.217,0.212,0.494
+8/7/2022,Sunday,Tamar ,6,17,12.745,0.308,0.026
+8/7/2022,Sunday,Potato,0,175,37.012,4.375,0.228
+8/8/2022,Monday,Avocado,0,174,14.842,3.48,25.508
+8/8/2022,Monday,WaterMelon,1,250,18.875,1.525,0.375
+8/8/2022,Monday,Wallnut,0,5,0.686,0.762,3.261
+8/8/2022,Monday,Espresso,7,0.04,0,0,0.072
+8/8/2022,Monday,Actimel,1,108,5,2.8,1.6
+8/8/2022,Monday,Friday Dinner,0,1000,95,69,40
+8/8/2022,Monday,Beer,0,330,11.715,1.518,0
+8/8/2022,Monday,Sweet Potato,0,596,119.915,9.357,0.298
+8/8/2022,Monday,Egg,1,58,0.65,7.296,6.154
+8/8/2022,Monday,Banana,0,101,23.068,1.101,0.333
+8/8/2022,Monday,Yellow Cheece,0,18.18,0.036,4.3,5.09
+8/8/2022,Monday,Gamba,3,185,11.156,1.832,0.555
+8/8/2022,Monday,Hamburger,0,100,1,15,10
+8/8/2022,Monday,Green Olives,0,2,0.077,0.021,0.306
+8/8/2022,Monday,Chicken Breast,0,125,0,26.538,3.238
+8/8/2022,Monday,Greek Yogurt,0,130,5.5,7.2,8.5
+8/8/2022,Monday,Yougort Pro,0,150,5.4,13.4,0
+8/8/2022,Monday,Yoplle,0,150,19.8,4.65,4.5
+8/8/2022,Monday,Eggplant,0,42,6.384,0.882,4.158
+8/8/2022,Monday,Thina,2.5,15,1.605,3.825,9.015
+8/8/2022,Monday,Matbuha,1,15,1.575,0.255,0.495
+8/8/2022,Monday,Masabaha,0,42,4.2,2.73,9.24
+8/8/2022,Monday,Ketchup,0,19,4.579,0.171,0.019
+8/8/2022,Monday,Honey,0,9,7.416,0.027,0
+8/8/2022,Monday,Sour Cavige,0,32,1.12,0.32,0
+8/8/2022,Monday,Beatroot,0,120,11.472,1.932,0.204
+8/8/2022,Monday,Tziki,0,20,0.98,1.88,0.9
+8/8/2022,Monday,Unknown,0,100,20,20,20
+8/8/2022,Monday,Bread,0,30,13.59,2.61,0.69
+8/8/2022,Monday,Hamburger Bun,0,85,41.82,7.905,3.315
+8/8/2022,Monday,Cucumber,1,96,3.485,0.624,0.106
+8/8/2022,Monday,Pickles,0,28,0.633,0.092,0.056
+8/8/2022,Monday,Mango,0,246,41.82,1.255,0.664
+8/8/2022,Monday,Persian Rice,0,166,37.184,3.652,10.956
+8/8/2022,Monday,Shawarma,2.5,100,3,17,5
+8/8/2022,Monday,Sausage,0,100,2,20,10
+8/8/2022,Monday,Sabih,0,220,58.08,16.5,20.24
+8/8/2022,Monday,Steak,0,300,0,79.94,50.28
+8/8/2022,Monday,Sinta steak,0,300,0,87.99,29.01
+8/8/2022,Monday,Cavige salad,0,100,12.88,1.47,11.08
+8/8/2022,Monday,Tomato,0,172,6.748,1.526,0.344
+8/8/2022,Monday,Sherry Tomato,8,10,0.392,0.088,0.02
+8/8/2022,Monday,Grape,17,6,1.086,0.043,0.01
+8/8/2022,Monday,Mushroom,0,25,0.82,0.773,0.085
+8/8/2022,Monday,Pizza,0,100,37,10,6
+8/8/2022,Monday,Pita Bread (cusmin),0.5,87.5,28.7,9.3625,1.1375
+8/8/2022,Monday,Pita bread,1,74,30.34,0.518,0.222
+8/8/2022,Monday,Cottege 3%,0,250,3.75,27.5,7.5
+8/8/2022,Monday,Cottege 5%,0,250,3.75,27.5,12.5
+8/8/2022,Monday,Tuna Can (Water),0,112,0,27.776,0.672
+8/8/2022,Monday,Tuna Can (Oil),1,160,0,38.4,20.8
+8/8/2022,Monday,Squash,0,218,4.31,0.91,0.31
+8/8/2022,Monday,Kashio Nut,15,2,0.604,0.364,0.877
+8/8/2022,Monday,Green Beans,0,100,6.97,1.83,0.22
+8/8/2022,Monday,Almond,16,1,0.217,0.212,0.494
+8/8/2022,Monday,Tamar ,6,17,12.745,0.308,0.026
+8/8/2022,Monday,Potato,0,175,37.012,4.375,0.228
+8/9/2022,Tuesday,Avocado,0,174,14.842,3.48,25.508
+8/9/2022,Tuesday,WaterMelon,2,250,18.875,1.525,0.375
+8/9/2022,Tuesday,Wallnut,0,5,0.686,0.762,3.261
+8/9/2022,Tuesday,Espresso,7,0.04,0,0,0.072
+8/9/2022,Tuesday,Actimel,0,108,5,2.8,1.6
+8/9/2022,Tuesday,Friday Dinner,0,1000,95,69,40
+8/9/2022,Tuesday,Beer,0,330,11.715,1.518,0
+8/9/2022,Tuesday,Sweet Potato,0,596,119.915,9.357,0.298
+8/9/2022,Tuesday,Egg,1,58,0.65,7.296,6.154
+8/9/2022,Tuesday,Banana,0,101,23.068,1.101,0.333
+8/9/2022,Tuesday,Yellow Cheece,0,18.18,0.036,4.3,5.09
+8/9/2022,Tuesday,Gamba,2,185,11.156,1.832,0.555
+8/9/2022,Tuesday,Hamburger,0,100,1,15,10
+8/9/2022,Tuesday,Green Olives,0,2,0.077,0.021,0.306
+8/9/2022,Tuesday,Chicken Breast,2.8,125,0,26.538,3.238
+8/9/2022,Tuesday,Greek Yogurt,0,130,5.5,7.2,8.5
+8/9/2022,Tuesday,Yougort Pro,0,150,5.4,13.4,0
+8/9/2022,Tuesday,Yoplle,1,150,19.8,4.65,4.5
+8/9/2022,Tuesday,Eggplant,0,42,6.384,0.882,4.158
+8/9/2022,Tuesday,Thina,2.2,15,1.605,3.825,9.015
+8/9/2022,Tuesday,Matbuha,0,15,1.575,0.255,0.495
+8/9/2022,Tuesday,Masabaha,0,42,4.2,2.73,9.24
+8/9/2022,Tuesday,Ketchup,0,19,4.579,0.171,0.019
+8/9/2022,Tuesday,Honey,0,9,7.416,0.027,0
+8/9/2022,Tuesday,Sour Cavige,0,32,1.12,0.32,0
+8/9/2022,Tuesday,Beatroot,1,120,11.472,1.932,0.204
+8/9/2022,Tuesday,Tziki,0,20,0.98,1.88,0.9
+8/9/2022,Tuesday,Unknown,0.5,100,20,20,20
+8/9/2022,Tuesday,Bread,0,30,13.59,2.61,0.69
+8/9/2022,Tuesday,Hamburger Bun,0,85,41.82,7.905,3.315
+8/9/2022,Tuesday,Cucumber,2,96,3.485,0.624,0.106
+8/9/2022,Tuesday,Pickles,0,28,0.633,0.092,0.056
+8/9/2022,Tuesday,Mango,0,246,41.82,1.255,0.664
+8/9/2022,Tuesday,Persian Rice,0,166,37.184,3.652,10.956
+8/9/2022,Tuesday,Shawarma,0,100,3,17,5
+8/9/2022,Tuesday,Sausage,0,100,2,20,10
+8/9/2022,Tuesday,Sabih,0,220,58.08,16.5,20.24
+8/9/2022,Tuesday,Steak,0,300,0,79.94,50.28
+8/9/2022,Tuesday,Sinta steak,0,300,0,87.99,29.01
+8/9/2022,Tuesday,Cavige salad,0,100,12.88,1.47,11.08
+8/9/2022,Tuesday,Tomato,0,172,6.748,1.526,0.344
+8/9/2022,Tuesday,Sherry Tomato,3,10,0.392,0.088,0.02
+8/9/2022,Tuesday,Grape,10,6,1.086,0.043,0.01
+8/9/2022,Tuesday,Mushroom,0,25,0.82,0.773,0.085
+8/9/2022,Tuesday,Pizza,0,100,37,10,6
+8/9/2022,Tuesday,Pita Bread (cusmin),2.5,87.5,28.7,9.3625,1.1375
+8/9/2022,Tuesday,Pita bread,0,74,30.34,0.518,0.222
+8/9/2022,Tuesday,Cottege 3%,1,250,3.75,27.5,7.5
+8/9/2022,Tuesday,Cottege 5%,1,250,3.75,27.5,12.5
+8/9/2022,Tuesday,Tuna Can (Water),0,112,0,27.776,0.672
+8/9/2022,Tuesday,Tuna Can (Oil),0,160,0,38.4,20.8
+8/9/2022,Tuesday,Squash,0,218,4.31,0.91,0.31
+8/9/2022,Tuesday,Kashio Nut,11,2,0.604,0.364,0.877
+8/9/2022,Tuesday,Green Beans,0,100,6.97,1.83,0.22
+8/9/2022,Tuesday,Almond,5,1,0.217,0.212,0.494
+8/9/2022,Tuesday,Tamar ,3,17,12.745,0.308,0.026
+8/9/2022,Tuesday,Potato,0,175,37.012,4.375,0.228
+8/10/2022,Wednesday,Avocado,0,174,14.842,3.48,25.508
+8/10/2022,Wednesday,WaterMelon,0,250,18.875,1.525,0.375
+8/10/2022,Wednesday,Wallnut,0,5,0.686,0.762,3.261
+8/10/2022,Wednesday,Espresso,5,0.04,0,0,0.072
+8/10/2022,Wednesday,Actimel,0,108,5,2.8,1.6
+8/10/2022,Wednesday,Friday Dinner,0,1000,95,69,40
+8/10/2022,Wednesday,Beer,0,330,11.715,1.518,0
+8/10/2022,Wednesday,Sweet Potato,0,596,119.915,9.357,0.298
+8/10/2022,Wednesday,Egg,2,58,0.65,7.296,6.154
+8/10/2022,Wednesday,Banana,0,101,23.068,1.101,0.333
+8/10/2022,Wednesday,Yellow Cheece,0,18.18,0.036,4.3,5.09
+8/10/2022,Wednesday,Gamba,1,185,11.156,1.832,0.555
+8/10/2022,Wednesday,Hamburger,0,100,1,15,10
+8/10/2022,Wednesday,Green Olives,0,2,0.077,0.021,0.306
+8/10/2022,Wednesday,Chicken Breast,2,125,0,26.538,3.238
+8/10/2022,Wednesday,Greek Yogurt,0,130,5.5,7.2,8.5
+8/10/2022,Wednesday,Yougort Pro,0,150,5.4,13.4,0
+8/10/2022,Wednesday,Yoplle,1,150,19.8,4.65,4.5
+8/10/2022,Wednesday,Eggplant,0,42,6.384,0.882,4.158
+8/10/2022,Wednesday,Thina,0,15,1.605,3.825,9.015
+8/10/2022,Wednesday,Matbuha,0,15,1.575,0.255,0.495
+8/10/2022,Wednesday,Masabaha,0,42,4.2,2.73,9.24
+8/10/2022,Wednesday,Ketchup,0,19,4.579,0.171,0.019
+8/10/2022,Wednesday,Honey,0,9,7.416,0.027,0
+8/10/2022,Wednesday,Sour Cavige,0,32,1.12,0.32,0
+8/10/2022,Wednesday,Beatroot,1,120,11.472,1.932,0.204
+8/10/2022,Wednesday,Tziki,0,20,0.98,1.88,0.9
+8/10/2022,Wednesday,Unknown,0,100,20,20,20
+8/10/2022,Wednesday,Bread,0,30,13.59,2.61,0.69
+8/10/2022,Wednesday,Hamburger Bun,0,85,41.82,7.905,3.315
+8/10/2022,Wednesday,Cucumber,0,96,3.485,0.624,0.106
+8/10/2022,Wednesday,Pickles,0,28,0.633,0.092,0.056
+8/10/2022,Wednesday,Mango,1,246,41.82,1.255,0.664
+8/10/2022,Wednesday,Persian Rice,0,166,37.184,3.652,10.956
+8/10/2022,Wednesday,Shawarma,0,100,3,17,5
+8/10/2022,Wednesday,Sausage,0,100,2,20,10
+8/10/2022,Wednesday,Sabih,0,220,58.08,16.5,20.24
+8/10/2022,Wednesday,Steak,0,300,0,79.94,50.28
+8/10/2022,Wednesday,Sinta steak,0,300,0,87.99,29.01
+8/10/2022,Wednesday,Cavige salad,0,100,12.88,1.47,11.08
+8/10/2022,Wednesday,Tomato,0,172,6.748,1.526,0.344
+8/10/2022,Wednesday,Sherry Tomato,0,10,0.392,0.088,0.02
+8/10/2022,Wednesday,Grape,10,6,1.086,0.043,0.01
+8/10/2022,Wednesday,Fuckatza,1.6,100,36,9,8
+8/10/2022,Wednesday,Mushroom,0,25,0.82,0.773,0.085
+8/10/2022,Wednesday,Pizza,0,100,37,10,6
+8/10/2022,Wednesday,Pita Bread (cusmin),1,87.5,28.7,9.3625,1.1375
+8/10/2022,Wednesday,Pita bread,0,74,30.34,0.518,0.222
+8/10/2022,Wednesday,Cottege 3%,1,250,3.75,27.5,7.5
+8/10/2022,Wednesday,Cottege 5%,0,250,3.75,27.5,12.5
+8/10/2022,Wednesday,Tuna Can (Water),0,112,0,27.776,0.672
+8/10/2022,Wednesday,Tuna Can (Oil),0,160,0,38.4,20.8
+8/10/2022,Wednesday,Squash,0,218,4.31,0.91,0.31
+8/10/2022,Wednesday,Kashio Nut,16,2,0.604,0.364,0.877
+8/10/2022,Wednesday,Bitter Chocolate,0.5,100,58,4.5,28
+8/10/2022,Wednesday,Green Beans,0,100,6.97,1.83,0.22
+8/10/2022,Wednesday,Almond,10,1,0.217,0.212,0.494
+8/10/2022,Wednesday,Tamar ,7,17,12.745,0.308,0.026
+8/10/2022,Wednesday,Potato,1,175,37.012,4.375,0.228
+8/11/2022,Thursday,Avocado,0,174,14.842,3.48,25.508
+8/11/2022,Thursday,WaterMelon,0,250,18.875,1.525,0.375
+8/11/2022,Thursday,Wallnut,0,5,0.686,0.762,3.261
+8/11/2022,Thursday,Espresso,6,0.04,0,0,0.072
+8/11/2022,Thursday,Actimel,0,108,5,2.8,1.6
+8/11/2022,Thursday,Friday Dinner,0,1000,95,69,40
+8/11/2022,Thursday,Beer,0,330,11.715,1.518,0
+8/11/2022,Thursday,Sweet Potato,0,596,119.915,9.357,0.298
+8/11/2022,Thursday,Egg,1,58,0.65,7.296,6.154
+8/11/2022,Thursday,Banana,0,101,23.068,1.101,0.333
+8/11/2022,Thursday,Yellow Cheece,0,18.18,0.036,4.3,5.09
+8/11/2022,Thursday,Gamba,0,185,11.156,1.832,0.555
+8/11/2022,Thursday,Hamburger,0,100,1,15,10
+8/11/2022,Thursday,Green Olives,12,2,0.077,0.021,0.306
+8/11/2022,Thursday,Chicken Breast,2,125,0,26.538,3.238
+8/11/2022,Thursday,Greek Yogurt,0,130,5.5,7.2,8.5
+8/11/2022,Thursday,Yougort Pro,0,150,5.4,13.4,0
+8/11/2022,Thursday,Yoplle,0,150,19.8,4.65,4.5
+8/11/2022,Thursday,Eggplant,0,42,6.384,0.882,4.158
+8/11/2022,Thursday,Thina,0,15,1.605,3.825,9.015
+8/11/2022,Thursday,Matbuha,0,15,1.575,0.255,0.495
+8/11/2022,Thursday,Masabaha,0,42,4.2,2.73,9.24
+8/11/2022,Thursday,Ketchup,0,19,4.579,0.171,0.019
+8/11/2022,Thursday,Honey,0,9,7.416,0.027,0
+8/11/2022,Thursday,Sour Cavige,0,32,1.12,0.32,0
+8/11/2022,Thursday,Beatroot,0,120,11.472,1.932,0.204
+8/11/2022,Thursday,Tziki,0,20,0.98,1.88,0.9
+8/11/2022,Thursday,Unknown,0,100,20,20,20
+8/11/2022,Thursday,Bread,0,30,13.59,2.61,0.69
+8/11/2022,Thursday,Hamburger Bun,0,85,41.82,7.905,3.315
+8/11/2022,Thursday,Cucumber,0,96,3.485,0.624,0.106
+8/11/2022,Thursday,Pickles,1,28,0.633,0.092,0.056
+8/11/2022,Thursday,Mango,1,246,41.82,1.255,0.664
+8/11/2022,Thursday,Persian Rice,0,166,37.184,3.652,10.956
+8/11/2022,Thursday,Shawarma,0,100,3,17,5
+8/11/2022,Thursday,Sausage,0,100,2,20,10
+8/11/2022,Thursday,Sabih,1.8,220,58.08,16.5,20.24
+8/11/2022,Thursday,Steak,0,300,0,79.94,50.28
+8/11/2022,Thursday,Sinta steak,0,300,0,87.99,29.01
+8/11/2022,Thursday,Cavige salad,0,100,12.88,1.47,11.08
+8/11/2022,Thursday,Tomato,0,172,6.748,1.526,0.344
+8/11/2022,Thursday,Sherry Tomato,0,10,0.392,0.088,0.02
+8/11/2022,Thursday,Dolomates,1.2,100,13.8,2.3,11.5
+8/11/2022,Thursday,Grape,0,6,1.086,0.043,0.01
+8/11/2022,Thursday,Fuckatza,0,100,36,9,8
+8/11/2022,Thursday,Mushroom,0,25,0.82,0.773,0.085
+8/11/2022,Thursday,Pizza,0,100,37,10,6
+8/11/2022,Thursday,Pita Bread (cusmin),1.5,87.5,28.7,9.3625,1.1375
+8/11/2022,Thursday,Pita bread,0,74,30.34,0.518,0.222
+8/11/2022,Thursday,Cottege 3%,0,250,3.75,27.5,7.5
+8/11/2022,Thursday,Cottege 5%,1,250,3.75,27.5,12.5
+8/11/2022,Thursday,Tuna Can (Water),0,112,0,27.776,0.672
+8/11/2022,Thursday,Tuna Can (Oil),0,160,0,38.4,20.8
+8/11/2022,Thursday,Squash,0.25,218,4.31,0.91,0.31
+8/11/2022,Thursday,Kashio Nut,15,2,0.604,0.364,0.877
+8/11/2022,Thursday,Bitter Chocolate,0,100,58,4.5,28
+8/11/2022,Thursday,Green Beans,0,100,6.97,1.83,0.22
+8/11/2022,Thursday,Almond,15,1,0.217,0.212,0.494
+8/11/2022,Thursday,Tamar ,6,17,12.745,0.308,0.026
+8/11/2022,Thursday,Potato,0.75,175,37.012,4.375,0.228
+8/12/2022,Friday,Avocado,0,174,14.842,3.48,25.508
+8/12/2022,Friday,WaterMelon,0,250,18.875,1.525,0.375
+8/12/2022,Friday,Wallnut,3,5,0.686,0.762,3.261
+8/12/2022,Friday,Espresso,5,0.04,0,0,0.072
+8/12/2022,Friday,Actimel,0,108,5,2.8,1.6
+8/12/2022,Friday,Friday Dinner,1.5,1000,95,69,40
+8/12/2022,Friday,Beer,0,330,11.715,1.518,0
+8/12/2022,Friday,Sweet Potato,0,596,119.915,9.357,0.298
+8/12/2022,Friday,Egg,0,58,0.65,7.296,6.154
+8/12/2022,Friday,Banana,1,101,23.068,1.101,0.333
+8/12/2022,Friday,Yellow Cheece,0,18.18,0.036,4.3,5.09
+8/12/2022,Friday,Gamba,0,185,11.156,1.832,0.555
+8/12/2022,Friday,Hamburger,0,100,1,15,10
+8/12/2022,Friday,Green Olives,0,2,0.077,0.021,0.306
+8/12/2022,Friday,Chicken Breast,2,125,0,26.538,3.238
+8/12/2022,Friday,Greek Yogurt,0,130,5.5,7.2,8.5
+8/12/2022,Friday,Yougort Pro,0,150,5.4,13.4,0
+8/12/2022,Friday,Yoplle,0,150,19.8,4.65,4.5
+8/12/2022,Friday,Eggplant,0,42,6.384,0.882,4.158
+8/12/2022,Friday,Thina,0,15,1.605,3.825,9.015
+8/12/2022,Friday,Matbuha,0,15,1.575,0.255,0.495
+8/12/2022,Friday,Masabaha,0,42,4.2,2.73,9.24
+8/12/2022,Friday,Ketchup,0,19,4.579,0.171,0.019
+8/12/2022,Friday,Honey,0,9,7.416,0.027,0
+8/12/2022,Friday,Sour Cavige,0,32,1.12,0.32,0
+8/12/2022,Friday,Beatroot,0,120,11.472,1.932,0.204
+8/12/2022,Friday,Tziki,0,20,0.98,1.88,0.9
+8/12/2022,Friday,Unknown,0,100,20,20,20
+8/12/2022,Friday,Bread,0,30,13.59,2.61,0.69
+8/12/2022,Friday,Hamburger Bun,0,85,41.82,7.905,3.315
+8/12/2022,Friday,Cucumber,0,96,3.485,0.624,0.106
+8/12/2022,Friday,Pickles,1,28,0.633,0.092,0.056
+8/12/2022,Friday,Mango,0,246,41.82,1.255,0.664
+8/12/2022,Friday,Persian Rice,0,166,37.184,3.652,10.956
+8/12/2022,Friday,Shawarma,0,100,3,17,5
+8/12/2022,Friday,Sausage,0,100,2,20,10
+8/12/2022,Friday,Sabih,0,220,58.08,16.5,20.24
+8/12/2022,Friday,Steak,0,300,0,79.94,50.28
+8/12/2022,Friday,Sinta steak,0,300,0,87.99,29.01
+8/12/2022,Friday,Cavige salad,0,100,12.88,1.47,11.08
+8/12/2022,Friday,Tomato,0,172,6.748,1.526,0.344
+8/12/2022,Friday,Sherry Tomato,4,10,0.392,0.088,0.02
+8/12/2022,Friday,Dolomates,0,100,13.8,2.3,11.5
+8/12/2022,Friday,Grape,0,6,1.086,0.043,0.01
+8/12/2022,Friday,Fuckatza,0,100,36,9,8
+8/12/2022,Friday,Mushroom,0,25,0.82,0.773,0.085
+8/12/2022,Friday,Pizza,0,100,37,10,6
+8/12/2022,Friday,Pita Bread (cusmin),2,87.5,28.7,9.3625,1.1375
+8/12/2022,Friday,Pita bread,0,74,30.34,0.518,0.222
+8/12/2022,Friday,Cottege 3%,0,250,3.75,27.5,7.5
+8/12/2022,Friday,Cottege 5%,1,250,3.75,27.5,12.5
+8/12/2022,Friday,Tuna Can (Water),0,112,0,27.776,0.672
+8/12/2022,Friday,Tuna Can (Oil),0,160,0,38.4,20.8
+8/12/2022,Friday,Squash,1,218,4.31,0.91,0.31
+8/12/2022,Friday,Kashio Nut,20,2,0.604,0.364,0.877
+8/12/2022,Friday,Bitter Chocolate,0,100,58,4.5,28
+8/12/2022,Friday,Green Beans,0,100,6.97,1.83,0.22
+8/12/2022,Friday,Almond,15,1,0.217,0.212,0.494
+8/12/2022,Friday,Tamar ,7,17,12.745,0.308,0.026
+8/12/2022,Friday,Potato,1,175,37.012,4.375,0.228
+8/13/2022,Saturday,Avocado,0,174,14.842,3.48,25.508
+8/13/2022,Saturday,WaterMelon,0,250,18.875,1.525,0.375
+8/13/2022,Saturday,Wallnut,0,5,0.686,0.762,3.261
+8/13/2022,Saturday,Espresso,4,0.04,0,0,0.072
+8/13/2022,Saturday,Actimel,0,108,5,2.8,1.6
+8/13/2022,Saturday,Friday Dinner,1.3,1000,95,69,40
+8/13/2022,Saturday,Beer,0,330,11.715,1.518,0
+8/13/2022,Saturday,Sweet Potato,0,596,119.915,9.357,0.298
+8/13/2022,Saturday,Egg,0,58,0.65,7.296,6.154
+8/13/2022,Saturday,Banana,1,101,23.068,1.101,0.333
+8/13/2022,Saturday,Yellow Cheece,0,18.18,0.036,4.3,5.09
+8/13/2022,Saturday,Gamba,0,185,11.156,1.832,0.555
+8/13/2022,Saturday,Hamburger,0,100,1,15,10
+8/13/2022,Saturday,Green Olives,0,2,0.077,0.021,0.306
+8/13/2022,Saturday,Chicken Breast,0,125,0,26.538,3.238
+8/13/2022,Saturday,Greek Yogurt,0,130,5.5,7.2,8.5
+8/13/2022,Saturday,Yougort Pro,0,150,5.4,13.4,0
+8/13/2022,Saturday,Yoplle,0,150,19.8,4.65,4.5
+8/13/2022,Saturday,Eggplant,0,42,6.384,0.882,4.158
+8/13/2022,Saturday,Thina,0,15,1.605,3.825,9.015
+8/13/2022,Saturday,Matbuha,0,15,1.575,0.255,0.495
+8/13/2022,Saturday,Masabaha,0,42,4.2,2.73,9.24
+8/13/2022,Saturday,Ketchup,0,19,4.579,0.171,0.019
+8/13/2022,Saturday,Honey,0,9,7.416,0.027,0
+8/13/2022,Saturday,Sour Cavige,0,32,1.12,0.32,0
+8/13/2022,Saturday,Beatroot,0,120,11.472,1.932,0.204
+8/13/2022,Saturday,Tziki,0,20,0.98,1.88,0.9
+8/13/2022,Saturday,Unknown,1,100,20,20,20
+8/13/2022,Saturday,Bread,0,30,13.59,2.61,0.69
+8/13/2022,Saturday,Hamburger Bun,0,85,41.82,7.905,3.315
+8/13/2022,Saturday,Cucumber,0,96,3.485,0.624,0.106
+8/13/2022,Saturday,Pickles,1,28,0.633,0.092,0.056
+8/13/2022,Saturday,Mango,0.7,246,41.82,1.255,0.664
+8/13/2022,Saturday,Persian Rice,0,166,37.184,3.652,10.956
+8/13/2022,Saturday,Shawarma,0,100,3,17,5
+8/13/2022,Saturday,Sausage,0,100,2,20,10
+8/13/2022,Saturday,Sabih,1,220,58.08,16.5,20.24
+8/13/2022,Saturday,Steak,0,300,0,79.94,50.28
+8/13/2022,Saturday,Sinta steak,0,300,0,87.99,29.01
+8/13/2022,Saturday,Cavige salad,0,100,12.88,1.47,11.08
+8/13/2022,Saturday,Tomato,0,172,6.748,1.526,0.344
+8/13/2022,Saturday,Sherry Tomato,0,10,0.392,0.088,0.02
+8/13/2022,Saturday,Dolomates,0,100,13.8,2.3,11.5
+8/13/2022,Saturday,Grape,0,6,1.086,0.043,0.01
+8/13/2022,Saturday,Fuckatza,0,100,36,9,8
+8/13/2022,Saturday,Mushroom,0,25,0.82,0.773,0.085
+8/13/2022,Saturday,Pizza,0,100,37,10,6
+8/13/2022,Saturday,Pita Bread (cusmin),0,87.5,28.7,9.3625,1.1375
+8/13/2022,Saturday,Pita bread,0,74,30.34,0.518,0.222
+8/13/2022,Saturday,Cottege 3%,0,250,3.75,27.5,7.5
+8/13/2022,Saturday,Cottege 5%,0,250,3.75,27.5,12.5
+8/13/2022,Saturday,Tuna Can (Water),0,112,0,27.776,0.672
+8/13/2022,Saturday,Tuna Can (Oil),0,160,0,38.4,20.8
+8/13/2022,Saturday,Squash,0,218,4.31,0.91,0.31
+8/13/2022,Saturday,Kashio Nut,5,2,0.604,0.364,0.877
+8/13/2022,Saturday,Bitter Chocolate,0,100,58,4.5,28
+8/13/2022,Saturday,Green Beans,0,100,6.97,1.83,0.22
+8/13/2022,Saturday,Almond,14,1,0.217,0.212,0.494
+8/13/2022,Saturday,Tamar ,4,17,12.745,0.308,0.026
+8/13/2022,Saturday,Potato,0,175,37.012,4.375,0.228
+8/14/2022,Sunday,Avocado,0,174,14.842,3.48,25.508
+8/14/2022,Sunday,WaterMelon,0,250,18.875,1.525,0.375
+8/14/2022,Sunday,Wallnut,0,5,0.686,0.762,3.261
+8/14/2022,Sunday,Espresso,6,0.04,0,0,0.072
+8/14/2022,Sunday,Actimel,1,108,5,2.8,1.6
+8/14/2022,Sunday,Friday Dinner,0,1000,95,69,40
+8/14/2022,Sunday,Beer,0,330,11.715,1.518,0
+8/14/2022,Sunday,Sweet Potato,0,596,119.915,9.357,0.298
+8/14/2022,Sunday,Egg,2,58,0.65,7.296,6.154
+8/14/2022,Sunday,Banana,0,101,23.068,1.101,0.333
+8/14/2022,Sunday,Yellow Cheece,2,18.18,0.036,4.3,5.09
+8/14/2022,Sunday,Gamba,0,185,11.156,1.832,0.555
+8/14/2022,Sunday,Hamburger,0,100,1,15,10
+8/14/2022,Sunday,Green Olives,0,2,0.077,0.021,0.306
+8/14/2022,Sunday,Chicken Breast,0,125,0,26.538,3.238
+8/14/2022,Sunday,Greek Yogurt,0,130,5.5,7.2,8.5
+8/14/2022,Sunday,Yougort Pro,0,150,5.4,13.4,0
+8/14/2022,Sunday,Yoplle,0,150,19.8,4.65,4.5
+8/14/2022,Sunday,Eggplant,0,42,6.384,0.882,4.158
+8/14/2022,Sunday,Thina,0,15,1.605,3.825,9.015
+8/14/2022,Sunday,Matbuha,0,15,1.575,0.255,0.495
+8/14/2022,Sunday,Masabaha,0,42,4.2,2.73,9.24
+8/14/2022,Sunday,Ketchup,0,19,4.579,0.171,0.019
+8/14/2022,Sunday,Honey,0,9,7.416,0.027,0
+8/14/2022,Sunday,Sour Cavige,0,32,1.12,0.32,0
+8/14/2022,Sunday,Beatroot,0,120,11.472,1.932,0.204
+8/14/2022,Sunday,Tziki,0,20,0.98,1.88,0.9
+8/14/2022,Sunday,Unknown,0,100,20,20,20
+8/14/2022,Sunday,Bread,0,30,13.59,2.61,0.69
+8/14/2022,Sunday,Hamburger Bun,0,85,41.82,7.905,3.315
+8/14/2022,Sunday,Cucumber,0,96,3.485,0.624,0.106
+8/14/2022,Sunday,Pickles,0.5,28,0.633,0.092,0.056
+8/14/2022,Sunday,Mango,0,246,41.82,1.255,0.664
+8/14/2022,Sunday,Persian Rice,0,166,37.184,3.652,10.956
+8/14/2022,Sunday,Shawarma,0,100,3,17,5
+8/14/2022,Sunday,Sausage,0,100,2,20,10
+8/14/2022,Sunday,Sabih,0,220,58.08,16.5,20.24
+8/14/2022,Sunday,Steak,0,300,0,79.94,50.28
+8/14/2022,Sunday,Sinta steak,1,300,0,87.99,29.01
+8/14/2022,Sunday,Cavige salad,0,100,12.88,1.47,11.08
+8/14/2022,Sunday,Tomato,0,172,6.748,1.526,0.344
+8/14/2022,Sunday,Sherry Tomato,4,10,0.392,0.088,0.02
+8/14/2022,Sunday,Dolomates,0,100,13.8,2.3,11.5
+8/14/2022,Sunday,Grape,0,6,1.086,0.043,0.01
+8/14/2022,Sunday,Fuckatza,0,100,36,9,8
+8/14/2022,Sunday,Mushroom,0,25,0.82,0.773,0.085
+8/14/2022,Sunday,Pizza,0,100,37,10,6
+8/14/2022,Sunday,Pita Bread (cusmin),2.5,87.5,28.7,9.3625,1.1375
+8/14/2022,Sunday,Pita bread,0,74,30.34,0.518,0.222
+8/14/2022,Sunday,Cottege 3%,0,250,3.75,27.5,7.5
+8/14/2022,Sunday,Cottege 5%,1,250,3.75,27.5,12.5
+8/14/2022,Sunday,Tuna Can (Water),0,112,0,27.776,0.672
+8/14/2022,Sunday,Tuna Can (Oil),1,160,0,38.4,20.8
+8/14/2022,Sunday,Squash,0,218,4.31,0.91,0.31
+8/14/2022,Sunday,Sweet Corn,0.5,185,46.454,6.142,2.368
+8/14/2022,Sunday,Kashio Nut,20,2,0.604,0.364,0.877
+8/14/2022,Sunday,Bitter Chocolate,0,100,58,4.5,28
+8/14/2022,Sunday,Green Beans,0,100,6.97,1.83,0.22
+8/14/2022,Sunday,Almond,10,1,0.217,0.212,0.494
+8/14/2022,Sunday,Tamar ,3,17,12.745,0.308,0.026
+8/14/2022,Sunday,Potato,0,175,37.012,4.375,0.228
+8/15/2022,Monday,Avocado,0,174,14.842,3.48,25.508
+8/15/2022,Monday,WaterMelon,0,250,18.875,1.525,0.375
+8/15/2022,Monday,Wallnut,0,5,0.686,0.762,3.261
+8/15/2022,Monday,Espresso,6,0.04,0,0,0.072
+8/15/2022,Monday,Actimel,0,108,5,2.8,1.6
+8/15/2022,Monday,Friday Dinner,0,1000,95,69,40
+8/15/2022,Monday,Beer,0,330,11.715,1.518,0
+8/15/2022,Monday,Sweet Potato,0,596,119.915,9.357,0.298
+8/15/2022,Monday,Egg,2,58,0.65,7.296,6.154
+8/15/2022,Monday,Banana,0,101,23.068,1.101,0.333
+8/15/2022,Monday,Yellow Cheece,0,18.18,0.036,4.3,5.09
+8/15/2022,Monday,Gamba,0,185,11.156,1.832,0.555
+8/15/2022,Monday,Hamburger,0,100,1,15,10
+8/15/2022,Monday,Green Olives,12,2,0.077,0.021,0.306
+8/15/2022,Monday,Chicken Breast,0,125,0,26.538,3.238
+8/15/2022,Monday,Greek Yogurt,0,130,5.5,7.2,8.5
+8/15/2022,Monday,Yougort Pro,0,150,5.4,13.4,0
+8/15/2022,Monday,Yoplle,1,150,19.8,4.65,4.5
+8/15/2022,Monday,Eggplant,0,42,6.384,0.882,4.158
+8/15/2022,Monday,Thina,0,15,1.605,3.825,9.015
+8/15/2022,Monday,Matbuha,0,15,1.575,0.255,0.495
+8/15/2022,Monday,Masabaha,0,42,4.2,2.73,9.24
+8/15/2022,Monday,Ketchup,0,19,4.579,0.171,0.019
+8/15/2022,Monday,Honey,0,9,7.416,0.027,0
+8/15/2022,Monday,Sour Cavige,0,32,1.12,0.32,0
+8/15/2022,Monday,Beatroot,0,120,11.472,1.932,0.204
+8/15/2022,Monday,Tziki,0,20,0.98,1.88,0.9
+8/15/2022,Monday,Unknown,1,100,20,20,20
+8/15/2022,Monday,Bread,0,30,13.59,2.61,0.69
+8/15/2022,Monday,Hamburger Bun,0,85,41.82,7.905,3.315
+8/15/2022,Monday,Cucumber,0,96,3.485,0.624,0.106
+8/15/2022,Monday,Pickles,0,28,0.633,0.092,0.056
+8/15/2022,Monday,Mango,0,246,41.82,1.255,0.664
+8/15/2022,Monday,Persian Rice,0,166,37.184,3.652,10.956
+8/15/2022,Monday,Shawarma,0,100,3,17,5
+8/15/2022,Monday,Sausage,0,100,2,20,10
+8/15/2022,Monday,Sabih,0,220,58.08,16.5,20.24
+8/15/2022,Monday,Steak,0,300,0,79.94,50.28
+8/15/2022,Monday,Sinta steak,0,300,0,87.99,29.01
+8/15/2022,Monday,Cavige salad,0,100,12.88,1.47,11.08
+8/15/2022,Monday,Tomato,0,172,6.748,1.526,0.344
+8/15/2022,Monday,Sherry Tomato,10,10,0.392,0.088,0.02
+8/15/2022,Monday,Dolomates,0,100,13.8,2.3,11.5
+8/15/2022,Monday,Grape,0,6,1.086,0.043,0.01
+8/15/2022,Monday,Fuckatza,0,100,36,9,8
+8/15/2022,Monday,Mushroom,0,25,0.82,0.773,0.085
+8/15/2022,Monday,Pizza,0,100,37,10,6
+8/15/2022,Monday,Pita Bread (cusmin),2,87.5,28.7,9.3625,1.1375
+8/15/2022,Monday,Pita bread,0,74,30.34,0.518,0.222
+8/15/2022,Monday,Pasta,1,166,117.86,18.26,2.49
+8/15/2022,Monday,Cottege 3%,0,250,3.75,27.5,7.5
+8/15/2022,Monday,Cottege 5%,0,250,3.75,27.5,12.5
+8/15/2022,Monday,Tuna Can (Water),0,112,0,27.776,0.672
+8/15/2022,Monday,Tuna Can (Oil),2,160,0,38.4,20.8
+8/15/2022,Monday,Squash,0,218,4.31,0.91,0.31
+8/15/2022,Monday,Sweet Corn,0,185,46.454,6.142,2.368
+8/15/2022,Monday,Kashio Nut,15,2,0.604,0.364,0.877
+8/15/2022,Monday,Bitter Chocolate,0,100,58,4.5,28
+8/15/2022,Monday,Green Beans,0,100,6.97,1.83,0.22
+8/15/2022,Monday,Almond,15,1,0.217,0.212,0.494
+8/15/2022,Monday,Tamar ,0,17,12.745,0.308,0.026
+8/15/2022,Monday,Potato,0,175,37.012,4.375,0.228
+8/16/2022,Tuesday,Avocado,0,174,14.842,3.48,25.508
+8/16/2022,Tuesday,WaterMelon,0,250,18.875,1.525,0.375
+8/16/2022,Tuesday,Wallnut,0,5,0.686,0.762,3.261
+8/16/2022,Tuesday,Espresso,1,0.04,0,0,0.072
+8/16/2022,Tuesday,Actimel,0,108,5,2.8,1.6
+8/16/2022,Tuesday,Friday Dinner,0,1000,95,69,40
+8/16/2022,Tuesday,Beer,0,330,11.715,1.518,0
+8/16/2022,Tuesday,Sweet Potato,0,596,119.915,9.357,0.298
+8/16/2022,Tuesday,Egg,2,58,0.65,7.296,6.154
+8/16/2022,Tuesday,Banana,0,101,23.068,1.101,0.333
+8/16/2022,Tuesday,Yellow Cheece,0,18.18,0.036,4.3,5.09
+8/16/2022,Tuesday,Gamba,2,185,11.156,1.832,0.555
+8/16/2022,Tuesday,Hamburger,0,100,1,15,10
+8/16/2022,Tuesday,Green Olives,0,2,0.077,0.021,0.306
+8/16/2022,Tuesday,Chicken Breast,3,125,0,26.538,3.238
+8/16/2022,Tuesday,Greek Yogurt,0,130,5.5,7.2,8.5
+8/16/2022,Tuesday,Yougort Pro,0,150,5.4,13.4,0
+8/16/2022,Tuesday,Yoplle,0,150,19.8,4.65,4.5
+8/16/2022,Tuesday,Eggplant,0,42,6.384,0.882,4.158
+8/16/2022,Tuesday,Thina,0,15,1.605,3.825,9.015
+8/16/2022,Tuesday,Matbuha,0,15,1.575,0.255,0.495
+8/16/2022,Tuesday,Masabaha,0,42,4.2,2.73,9.24
+8/16/2022,Tuesday,Ketchup,0,19,4.579,0.171,0.019
+8/16/2022,Tuesday,Honey,0,9,7.416,0.027,0
+8/16/2022,Tuesday,Sour Cavige,0,32,1.12,0.32,0
+8/16/2022,Tuesday,Beatroot,0,120,11.472,1.932,0.204
+8/16/2022,Tuesday,Tziki,0,20,0.98,1.88,0.9
+8/16/2022,Tuesday,Unknown,0,100,20,20,20
+8/16/2022,Tuesday,Bread,0,30,13.59,2.61,0.69
+8/16/2022,Tuesday,Hamburger Bun,0,85,41.82,7.905,3.315
+8/16/2022,Tuesday,Cucumber,1,96,3.485,0.624,0.106
+8/16/2022,Tuesday,Pickles,0,28,0.633,0.092,0.056
+8/16/2022,Tuesday,Mango,0,246,41.82,1.255,0.664
+8/16/2022,Tuesday,Persian Rice,0,166,37.184,3.652,10.956
+8/16/2022,Tuesday,Shawarma,0,100,3,17,5
+8/16/2022,Tuesday,Sausage,0,100,2,20,10
+8/16/2022,Tuesday,Sabih,0,220,58.08,16.5,20.24
+8/16/2022,Tuesday,Steak,0,300,0,79.94,50.28
+8/16/2022,Tuesday,Sinta steak,0,300,0,87.99,29.01
+8/16/2022,Tuesday,Cavige salad,0,100,12.88,1.47,11.08
+8/16/2022,Tuesday,Tomato,0,172,6.748,1.526,0.344
+8/16/2022,Tuesday,Sherry Tomato,17,10,0.392,0.088,0.02
+8/16/2022,Tuesday,Dolomates,0,100,13.8,2.3,11.5
+8/16/2022,Tuesday,Grape,0,6,1.086,0.043,0.01
+8/16/2022,Tuesday,Fuckatza,0,100,36,9,8
+8/16/2022,Tuesday,Mushroom,0,25,0.82,0.773,0.085
+8/16/2022,Tuesday,Pizza,0,100,37,10,6
+8/16/2022,Tuesday,Pita Bread (cusmin),1,87.5,28.7,9.3625,1.1375
+8/16/2022,Tuesday,Pita bread,0,74,30.34,0.518,0.222
+8/16/2022,Tuesday,Pasta,0,166,117.86,18.26,2.49
+8/16/2022,Tuesday,Cottege 3%,0,250,3.75,27.5,7.5
+8/16/2022,Tuesday,Cottege 5%,1,250,3.75,27.5,12.5
+8/16/2022,Tuesday,Tuna Can (Water),0,112,0,27.776,0.672
+8/16/2022,Tuesday,Tuna Can (Oil),0,160,0,38.4,20.8
+8/16/2022,Tuesday,Squash,2,218,4.31,0.91,0.31
+8/16/2022,Tuesday,Sweet Corn,0,185,46.454,6.142,2.368
+8/16/2022,Tuesday,Kashio Nut,8,2,0.604,0.364,0.877
+8/16/2022,Tuesday,Bitter Chocolate,0,100,58,4.5,28
+8/16/2022,Tuesday,Green Beans,0,100,6.97,1.83,0.22
+8/16/2022,Tuesday,Almond,15,1,0.217,0.212,0.494
+8/16/2022,Tuesday,Tamar ,3,17,12.745,0.308,0.026
+8/16/2022,Tuesday,Potato,0,175,37.012,4.375,0.228
+8/17/2022,Wednesday,Avocado,0,174,14.842,3.48,25.508
+8/17/2022,Wednesday,WaterMelon,1,250,18.875,1.525,0.375
+8/17/2022,Wednesday,Wallnut,0,5,0.686,0.762,3.261
+8/17/2022,Wednesday,Espresso,7,0.04,0,0,0.072
+8/17/2022,Wednesday,Actimel,2,108,5,2.8,1.6
+8/17/2022,Wednesday,Friday Dinner,0,1000,95,69,40
+8/17/2022,Wednesday,Beer,0,100,11.715,1.518,0
+8/17/2022,Wednesday,Sweet Potato,0,596,119.915,9.357,0.298
+8/17/2022,Wednesday,Egg,2,58,0.65,7.296,6.154
+8/17/2022,Wednesday,Banana,0,101,23.068,1.101,0.333
+8/17/2022,Wednesday,Yellow Cheece,0,18.18,0.036,4.3,5.09
+8/17/2022,Wednesday,Gamba,3,185,11.156,1.832,0.555
+8/17/2022,Wednesday,Hamburger,0,100,1,15,10
+8/17/2022,Wednesday,Green Olives,14,2,0.077,0.021,0.306
+8/17/2022,Wednesday,Chicken Breast,3,125,0,26.538,3.238
+8/17/2022,Wednesday,Greek Yogurt,0,130,5.5,7.2,8.5
+8/17/2022,Wednesday,Yougort Pro,0,150,5.4,13.4,0
+8/17/2022,Wednesday,Yoplle,0,150,19.8,4.65,4.5
+8/17/2022,Wednesday,Eggplant,0,42,6.384,0.882,4.158
+8/17/2022,Wednesday,Thina,2,15,1.605,3.825,9.015
+8/17/2022,Wednesday,Matbuha,0,15,1.575,0.255,0.495
+8/17/2022,Wednesday,Masabaha,0,42,4.2,2.73,9.24
+8/17/2022,Wednesday,Ketchup,0,19,4.579,0.171,0.019
+8/17/2022,Wednesday,Honey,0,9,7.416,0.027,0
+8/17/2022,Wednesday,Sour Cavige,0,32,1.12,0.32,0
+8/17/2022,Wednesday,Beatroot,0,120,11.472,1.932,0.204
+8/17/2022,Wednesday,Tziki,0,20,0.98,1.88,0.9
+8/17/2022,Wednesday,Unknown,0,100,20,20,20
+8/17/2022,Wednesday,Bread,0,30,13.59,2.61,0.69
+8/17/2022,Wednesday,Hamburger Bun,0,85,41.82,7.905,3.315
+8/17/2022,Wednesday,Cucumber,1,96,3.485,0.624,0.106
+8/17/2022,Wednesday,Pickles,0,28,0.633,0.092,0.056
+8/17/2022,Wednesday,Mango,1,246,41.82,1.255,0.664
+8/17/2022,Wednesday,Persian Rice,0,166,37.184,3.652,10.956
+8/17/2022,Wednesday,Shawarma,0,100,3,17,5
+8/17/2022,Wednesday,Sausage,0,100,2,20,10
+8/17/2022,Wednesday,Sabih,0,220,58.08,16.5,20.24
+8/17/2022,Wednesday,Steak,0,300,0,79.94,50.28
+8/17/2022,Wednesday,Sinta steak,0,300,0,87.99,29.01
+8/17/2022,Wednesday,Cavige salad,0,100,12.88,1.47,11.08
+8/17/2022,Wednesday,Tomato,0,172,6.748,1.526,0.344
+8/17/2022,Wednesday,Sherry Tomato,12,10,0.392,0.088,0.02
+8/17/2022,Wednesday,Dolomates,0,100,13.8,2.3,11.5
+8/17/2022,Wednesday,Grape,0,6,1.086,0.043,0.01
+8/17/2022,Wednesday,Fuckatza,0,100,36,9,8
+8/17/2022,Wednesday,Mushroom,8,25,0.82,0.773,0.085
+8/17/2022,Wednesday,Pizza,0,100,37,10,6
+8/17/2022,Wednesday,Pita Bread (cusmin),2,100,28.7,9.3625,1.1375
+8/17/2022,Wednesday,Pita bread,0,74,30.34,0.518,0.222
+8/17/2022,Wednesday,Pasta,0,166,117.86,18.26,2.49
+8/17/2022,Wednesday,Cottege 3%,1,250,3.75,27.5,7.5
+8/17/2022,Wednesday,Cottege 5%,0,250,3.75,27.5,12.5
+8/17/2022,Wednesday,Tuna Can (Water),0,112,0,27.776,0.672
+8/17/2022,Wednesday,Tuna Can (Oil),0,160,0,38.4,20.8
+8/17/2022,Wednesday,Squash,0,218,4.31,0.91,0.31
+8/17/2022,Wednesday,Sweet Corn,0,185,46.454,6.142,2.368
+8/17/2022,Wednesday,Kashio Nut,20,2,0.604,0.364,0.877
+8/17/2022,Wednesday,Bitter Chocolate,0,100,58,4.5,28
+8/17/2022,Wednesday,Green Beans,0,100,6.97,1.83,0.22
+8/17/2022,Wednesday,Almond,20,1,0.217,0.212,0.494
+8/17/2022,Wednesday,Tamar ,5,17,12.745,0.308,0.026
+8/17/2022,Wednesday,Potato,0,175,37.012,4.375,0.228
+8/18/2022,Thursday,Avocado,0,174,14.842,3.48,25.508
+8/18/2022,Thursday,WaterMelon,1,250,18.875,1.525,0.375
+8/18/2022,Thursday,Wallnut,0,5,0.686,0.762,3.261
+8/18/2022,Thursday,Espresso,2,0.04,0,0,0.072
+8/18/2022,Thursday,Actimel,0,108,5,2.8,1.6
+8/18/2022,Thursday,Friday Dinner,0,1000,95,69,40
+8/18/2022,Thursday,Beer,0,100,11.715,1.518,0
+8/18/2022,Thursday,Sweet Potato,0,596,119.915,9.357,0.298
+8/18/2022,Thursday,Egg,2,58,0.65,7.296,6.154
+8/18/2022,Thursday,Banana,0,101,23.068,1.101,0.333
+8/18/2022,Thursday,Yellow Cheece,0,18.18,0.036,4.3,5.09
+8/18/2022,Thursday,Gamba,0,185,11.156,1.832,0.555
+8/18/2022,Thursday,Ice cream,0.5,122,30.866,4.514,9.882
+8/18/2022,Thursday,Hamburger,1,100,1,15,10
+8/18/2022,Thursday,Green Olives,0,2,0.077,0.021,0.306
+8/18/2022,Thursday,Chicken Breast,1.25,125,0,26.538,3.238
+8/18/2022,Thursday,Greek Yogurt,0,130,5.5,7.2,8.5
+8/18/2022,Thursday,Yougort Pro,0,150,5.4,13.4,0
+8/18/2022,Thursday,Yoplle,0,150,19.8,4.65,4.5
+8/18/2022,Thursday,Eggplant,0,42,6.384,0.882,4.158
+8/18/2022,Thursday,Thina,0,15,1.605,3.825,9.015
+8/18/2022,Thursday,Matbuha,0,15,1.575,0.255,0.495
+8/18/2022,Thursday,Masabaha,0,42,4.2,2.73,9.24
+8/18/2022,Thursday,Ketchup,0,19,4.579,0.171,0.019
+8/18/2022,Thursday,Honey,0,9,7.416,0.027,0
+8/18/2022,Thursday,Sour Cavige,0,32,1.12,0.32,0
+8/18/2022,Thursday,Beatroot,0,120,11.472,1.932,0.204
+8/18/2022,Thursday,Tziki,0,20,0.98,1.88,0.9
+8/18/2022,Thursday,Unknown,0,100,20,20,20
+8/18/2022,Thursday,Bread,0,30,13.59,2.61,0.69
+8/18/2022,Thursday,Hamburger Bun,1,85,41.82,7.905,3.315
+8/18/2022,Thursday,Cucumber,0,96,3.485,0.624,0.106
+8/18/2022,Thursday,Pickles,0,28,0.633,0.092,0.056
+8/18/2022,Thursday,Mango,1,246,41.82,1.255,0.664
+8/18/2022,Thursday,Persian Rice,1.3,166,37.184,3.652,10.956
+8/18/2022,Thursday,Shawarma,0,100,3,17,5
+8/18/2022,Thursday,Sausage,0,100,2,20,10
+8/18/2022,Thursday,Sabih,0,220,58.08,16.5,20.24
+8/18/2022,Thursday,Steak,0,300,0,79.94,50.28
+8/18/2022,Thursday,Sinta steak,0,300,0,87.99,29.01
+8/18/2022,Thursday,Cavige salad,0,100,12.88,1.47,11.08
+8/18/2022,Thursday,Tomato,0,172,6.748,1.526,0.344
+8/18/2022,Thursday,Sherry Tomato,0,10,0.392,0.088,0.02
+8/18/2022,Thursday,Dolomates,0,100,13.8,2.3,11.5
+8/18/2022,Thursday,Grape,0,6,1.086,0.043,0.01
+8/18/2022,Thursday,Fuckatza,0,100,36,9,8
+8/18/2022,Thursday,Mushroom,0,25,0.82,0.773,0.085
+8/18/2022,Thursday,Pizza,0,100,37,10,6
+8/18/2022,Thursday,Pita Bread (cusmin),1,87.5,28.7,9.3625,1.1375
+8/18/2022,Thursday,Pita bread,0,74,30.34,0.518,0.222
+8/18/2022,Thursday,Pasta,0,166,117.86,18.26,2.49
+8/18/2022,Thursday,Cottege 3%,1,250,3.75,27.5,7.5
+8/18/2022,Thursday,Cottege 5%,0,250,3.75,27.5,12.5
+8/18/2022,Thursday,Tuna Can (Water),0,112,0,27.776,0.672
+8/18/2022,Thursday,Tuna Can (Oil),0,160,0,38.4,20.8
+8/18/2022,Thursday,Squash,0,218,4.31,0.91,0.31
+8/18/2022,Thursday,Sweet Corn,0,185,46.454,6.142,2.368
+8/18/2022,Thursday,Kashio Nut,15,2,0.604,0.364,0.877
+8/18/2022,Thursday,Bitter Chocolate,0,100,58,4.5,28
+8/18/2022,Thursday,Green Beans,0,100,6.97,1.83,0.22
+8/18/2022,Thursday,Almond,5,1,0.217,0.212,0.494
+8/18/2022,Thursday,Tamar ,4,17,12.745,0.308,0.026
+8/18/2022,Thursday,Potato,4,175,37.012,4.375,0.228
+8/19/2022,Friday,Avocado,0,174,14.842,3.48,25.508
+8/19/2022,Friday,WaterMelon,0,250,18.875,1.525,0.375
+8/19/2022,Friday,Wallnut,0,5,0.686,0.762,3.261
+8/19/2022,Friday,Espresso,3,0.04,0,0,0.072
+8/19/2022,Friday,Actimel,0,108,5,2.8,1.6
+8/19/2022,Friday,Friday Dinner,1.5,1000,95,69,40
+8/19/2022,Friday,Beer,0,330,11.715,1.518,0
+8/19/2022,Friday,Sweet Potato,0,596,119.915,9.357,0.298
+8/19/2022,Friday,Egg,2,58,0.65,7.296,6.154
+8/19/2022,Friday,Banana,0,101,23.068,1.101,0.333
+8/19/2022,Friday,Yellow Cheece,0,18.18,0.036,4.3,5.09
+8/19/2022,Friday,Gamba,0,185,11.156,1.832,0.555
+8/19/2022,Friday,Ice cream,0,122,30.866,4.514,9.882
+8/19/2022,Friday,Hamburger,0,100,1,15,10
+8/19/2022,Friday,Green Olives,0,2,0.077,0.021,0.306
+8/19/2022,Friday,Chicken Breast,0,125,0,26.538,3.238
+8/19/2022,Friday,Greek Yogurt,0,130,5.5,7.2,8.5
+8/19/2022,Friday,Yougort Pro,1,150,5.4,13.4,0
+8/19/2022,Friday,Yoplle,0,150,19.8,4.65,4.5
+8/19/2022,Friday,Eggplant,0,42,6.384,0.882,4.158
+8/19/2022,Friday,Thina,0,15,1.605,3.825,9.015
+8/19/2022,Friday,Matbuha,0,15,1.575,0.255,0.495
+8/19/2022,Friday,Masabaha,0,42,4.2,2.73,9.24
+8/19/2022,Friday,Ketchup,0,19,4.579,0.171,0.019
+8/19/2022,Friday,Honey,0,9,7.416,0.027,0
+8/19/2022,Friday,Sour Cavige,0,32,1.12,0.32,0
+8/19/2022,Friday,Beatroot,0,120,11.472,1.932,0.204
+8/19/2022,Friday,Tziki,0,20,0.98,1.88,0.9
+8/19/2022,Friday,Unknown,0,100,20,20,20
+8/19/2022,Friday,Bread,0,30,13.59,2.61,0.69
+8/19/2022,Friday,Hamburger Bun,0,85,41.82,7.905,3.315
+8/19/2022,Friday,Cucumber,0,96,3.485,0.624,0.106
+8/19/2022,Friday,Pickles,0,28,0.633,0.092,0.056
+8/19/2022,Friday,Mango,0,246,41.82,1.255,0.664
+8/19/2022,Friday,Persian Rice,0,166,37.184,3.652,10.956
+8/19/2022,Friday,Shawarma,0,100,3,17,5
+8/19/2022,Friday,Sausage,0,100,2,20,10
+8/19/2022,Friday,Sabih,0,220,58.08,16.5,20.24
+8/19/2022,Friday,Steak,0,300,0,79.94,50.28
+8/19/2022,Friday,Sinta steak,0,300,0,87.99,29.01
+8/19/2022,Friday,Cavige salad,0,100,12.88,1.47,11.08
+8/19/2022,Friday,Tomato,0,172,6.748,1.526,0.344
+8/19/2022,Friday,Sherry Tomato,5,10,0.392,0.088,0.02
+8/19/2022,Friday,Dolomates,0,100,13.8,2.3,11.5
+8/19/2022,Friday,Grape,0,6,1.086,0.043,0.01
+8/19/2022,Friday,Fuckatza,0,100,36,9,8
+8/19/2022,Friday,Mushroom,5,25,0.82,0.773,0.085
+8/19/2022,Friday,Pizza,0,100,37,10,6
+8/19/2022,Friday,Pita Bread (cusmin),1,87.5,28.7,9.3625,1.1375
+8/19/2022,Friday,Pita bread,0,74,30.34,0.518,0.222
+8/19/2022,Friday,Pasta,0,166,117.86,18.26,2.49
+8/19/2022,Friday,Cottege 3%,0,250,3.75,27.5,7.5
+8/19/2022,Friday,Cottege 5%,0,250,3.75,27.5,12.5
+8/19/2022,Friday,Tuna Can (Water),0,112,0,27.776,0.672
+8/19/2022,Friday,Tuna Can (Oil),0,160,0,38.4,20.8
+8/19/2022,Friday,Squash,0,218,4.31,0.91,0.31
+8/19/2022,Friday,Sweet Corn,0,185,46.454,6.142,2.368
+8/19/2022,Friday,Kashio Nut,15,2,0.604,0.364,0.877
+8/19/2022,Friday,Bitter Chocolate,0,100,58,4.5,28
+8/19/2022,Friday,Green Beans,0,100,6.97,1.83,0.22
+8/19/2022,Friday,Almond,7,1,0.217,0.212,0.494
+8/19/2022,Friday,Shakshuka,2,100,7,1.5,3.1
+8/19/2022,Friday,Tamar ,5,17,12.745,0.308,0.026
+8/19/2022,Friday,Potato,0,175,37.012,4.375,0.228
+8/20/2022,Saturday,Avocado,0,174,14.842,3.48,25.508
+8/20/2022,Saturday,WaterMelon,0,250,18.875,1.525,0.375
+8/20/2022,Saturday,Wallnut,0,5,0.686,0.762,3.261
+8/20/2022,Saturday,Espresso,0,0.04,0,0,0.072
+8/20/2022,Saturday,Actimel,0,108,5,2.8,1.6
+8/20/2022,Saturday,Friday Dinner,0,1000,95,69,40
+8/20/2022,Saturday,Beer,0,330,11.715,1.518,0
+8/20/2022,Saturday,Sweet Potato,0,596,119.915,9.357,0.298
+8/20/2022,Saturday,Egg,0,58,0.65,7.296,6.154
+8/20/2022,Saturday,Banana,0,101,23.068,1.101,0.333
+8/20/2022,Saturday,Yellow Cheece,0,18.18,0.036,4.3,5.09
+8/20/2022,Saturday,Gamba,0,185,11.156,1.832,0.555
+8/20/2022,Saturday,Ice cream,0,122,30.866,4.514,9.882
+8/20/2022,Saturday,Hamburger,0,100,1,15,10
+8/20/2022,Saturday,Green Olives,0,2,0.077,0.021,0.306
+8/20/2022,Saturday,Chicken Breast,0,125,0,26.538,3.238
+8/20/2022,Saturday,Greek Yogurt,0,130,5.5,7.2,8.5
+8/20/2022,Saturday,Yougort Pro,0,150,5.4,13.4,0
+8/20/2022,Saturday,Yoplle,0,150,19.8,4.65,4.5
+8/20/2022,Saturday,Eggplant,0,42,6.384,0.882,4.158
+8/20/2022,Saturday,Thina,0,15,1.605,3.825,9.015
+8/20/2022,Saturday,Matbuha,0,15,1.575,0.255,0.495
+8/20/2022,Saturday,Masabaha,0,42,4.2,2.73,9.24
+8/20/2022,Saturday,Ketchup,0,19,4.579,0.171,0.019
+8/20/2022,Saturday,Honey,0,9,7.416,0.027,0
+8/20/2022,Saturday,Sour Cavige,0,32,1.12,0.32,0
+8/20/2022,Saturday,Beatroot,0,120,11.472,1.932,0.204
+8/20/2022,Saturday,Tziki,0,20,0.98,1.88,0.9
+8/20/2022,Saturday,NA Meal,1,100,274,164,146
+8/20/2022,Saturday,Bread,0,30,13.59,2.61,0.69
+8/20/2022,Saturday,Hamburger Bun,0,85,41.82,7.905,3.315
+8/20/2022,Saturday,Cucumber,0,96,3.485,0.624,0.106
+8/20/2022,Saturday,Pickles,0,28,0.633,0.092,0.056
+8/20/2022,Saturday,Mango,0,246,41.82,1.255,0.664
+8/20/2022,Saturday,Persian Rice,0,166,37.184,3.652,10.956
+8/20/2022,Saturday,Shawarma,0,100,3,17,5
+8/20/2022,Saturday,Sausage,0,100,2,20,10
+8/20/2022,Saturday,Sabih,0,220,58.08,16.5,20.24
+8/20/2022,Saturday,Steak,0,300,0,79.94,50.28
+8/20/2022,Saturday,Sinta steak,0,300,0,87.99,29.01
+8/20/2022,Saturday,Cavige salad,0,100,12.88,1.47,11.08
+8/20/2022,Saturday,Tomato,0,172,6.748,1.526,0.344
+8/20/2022,Saturday,Sherry Tomato,0,10,0.392,0.088,0.02
+8/20/2022,Saturday,Dolomates,0,100,13.8,2.3,11.5
+8/20/2022,Saturday,Grape,0,6,1.086,0.043,0.01
+8/20/2022,Saturday,Fuckatza,0,100,36,9,8
+8/20/2022,Saturday,Mushroom,0,25,0.82,0.773,0.085
+8/20/2022,Saturday,Pizza,0,100,37,10,6
+8/20/2022,Saturday,Pita Bread (cusmin),0,87.5,28.7,9.3625,1.1375
+8/20/2022,Saturday,Pita bread,0,74,30.34,0.518,0.222
+8/20/2022,Saturday,Pasta,0,166,117.86,18.26,2.49
+8/20/2022,Saturday,Cottege 3%,0,250,3.75,27.5,7.5
+8/20/2022,Saturday,Cottege 5%,0,250,3.75,27.5,12.5
+8/20/2022,Saturday,Tuna Can (Water),0,112,0,27.776,0.672
+8/20/2022,Saturday,Tuna Can (Oil),0,160,0,38.4,20.8
+8/20/2022,Saturday,Squash,0,218,4.31,0.91,0.31
+8/20/2022,Saturday,Sweet Corn,0,185,46.454,6.142,2.368
+8/20/2022,Saturday,Kashio Nut,0,2,0.604,0.364,0.877
+8/20/2022,Saturday,Bitter Chocolate,0,100,58,4.5,28
+8/20/2022,Saturday,Green Beans,0,100,6.97,1.83,0.22
+8/20/2022,Saturday,Almond,0,1,0.217,0.212,0.494
+8/20/2022,Saturday,Shakshuka,0,100,7,1.5,3.1
+8/20/2022,Saturday,Tamar ,0,17,12.745,0.308,0.026
+8/20/2022,Saturday,Potato,0,175,37.012,4.375,0.228
+8/21/2022,Sunday,Avocado,0.05,174,14.842,3.48,25.508
+8/21/2022,Sunday,WaterMelon,0,250,18.875,1.525,0.375
+8/21/2022,Sunday,Wallnut,0,5,0.686,0.762,3.261
+8/21/2022,Sunday,Espresso,2,0.04,0,0,0.072
+8/21/2022,Sunday,Actimel,0,108,5,2.8,1.6
+8/21/2022,Sunday,Friday Dinner,0,1000,95,69,40
+8/21/2022,Sunday,Beer,0,330,11.715,1.518,0
+8/21/2022,Sunday,Sweet Potato,0,596,119.915,9.357,0.298
+8/21/2022,Sunday,Egg,0,58,0.65,7.296,6.154
+8/21/2022,Sunday,Banana,0,101,23.068,1.101,0.333
+8/21/2022,Sunday,Yellow Cheece,0,18.18,0.036,4.3,5.09
+8/21/2022,Sunday,Gamba,0.5,185,11.156,1.832,0.555
+8/21/2022,Sunday,Ice cream,0,122,30.866,4.514,9.882
+8/21/2022,Sunday,Hamburger,0,100,1,15,10
+8/21/2022,Sunday,Green Olives,0,2,0.077,0.021,0.306
+8/21/2022,Sunday,Chicken Breast,0,125,0,26.538,3.238
+8/21/2022,Sunday,Greek Yogurt,0,130,5.5,7.2,8.5
+8/21/2022,Sunday,Yougort Pro,0,150,5.4,13.4,0
+8/21/2022,Sunday,Yoplle,0,150,19.8,4.65,4.5
+8/21/2022,Sunday,Eggplant,0,42,6.384,0.882,4.158
+8/21/2022,Sunday,Thina,4,15,1.605,3.825,9.015
+8/21/2022,Sunday,Matbuha,4,15,1.575,0.255,0.495
+8/21/2022,Sunday,Masabaha,0,42,4.2,2.73,9.24
+8/21/2022,Sunday,Ketchup,0,19,4.579,0.171,0.019
+8/21/2022,Sunday,Honey,0,9,7.416,0.027,0
+8/21/2022,Sunday,Sour Cavige,0,32,1.12,0.32,0
+8/21/2022,Sunday,Beatroot,0,120,11.472,1.932,0.204
+8/21/2022,Sunday,Tziki,0,20,0.98,1.88,0.9
+8/21/2022,Sunday,NA Meal,0,100,274,164,146
+8/21/2022,Sunday,Bread,0,30,13.59,2.61,0.69
+8/21/2022,Sunday,Hamburger Bun,0,85,41.82,7.905,3.315
+8/21/2022,Sunday,Cucumber,0,96,3.485,0.624,0.106
+8/21/2022,Sunday,Pickles,0,28,0.633,0.092,0.056
+8/21/2022,Sunday,Mango,1,246,41.82,1.255,0.664
+8/21/2022,Sunday,Persian Rice,0,166,37.184,3.652,10.956
+8/21/2022,Sunday,Shawarma,0,100,3,17,5
+8/21/2022,Sunday,Sausage,0,100,2,20,10
+8/21/2022,Sunday,Sabih,0,220,58.08,16.5,20.24
+8/21/2022,Sunday,Steak,1,300,0,79.94,50.28
+8/21/2022,Sunday,Sinta steak,1,300,0,87.99,29.01
+8/21/2022,Sunday,Cavige salad,0,100,12.88,1.47,11.08
+8/21/2022,Sunday,Tomato,0,172,6.748,1.526,0.344
+8/21/2022,Sunday,Sherry Tomato,0,10,0.392,0.088,0.02
+8/21/2022,Sunday,Dolomates,0,100,13.8,2.3,11.5
+8/21/2022,Sunday,Grape,0,6,1.086,0.043,0.01
+8/21/2022,Sunday,Fuckatza,0,100,36,9,8
+8/21/2022,Sunday,Mushroom,0,25,0.82,0.773,0.085
+8/21/2022,Sunday,Pizza,0,100,37,10,6
+8/21/2022,Sunday,Pita Bread (cusmin),2,87.5,28.7,9.3625,1.1375
+8/21/2022,Sunday,Pita bread,0,74,30.34,0.518,0.222
+8/21/2022,Sunday,Pasta,0,166,117.86,18.26,2.49
+8/21/2022,Sunday,Cottege 3%,0,250,3.75,27.5,7.5
+8/21/2022,Sunday,Cottege 5%,1,250,3.75,27.5,12.5
+8/21/2022,Sunday,Tuna Can (Water),0,112,0,27.776,0.672
+8/21/2022,Sunday,Tuna Can (Oil),0,160,0,38.4,20.8
+8/21/2022,Sunday,Squash,0,218,4.31,0.91,0.31
+8/21/2022,Sunday,Sweet Corn,0,185,46.454,6.142,2.368
+8/21/2022,Sunday,Kashio Nut,10,2,0.604,0.364,0.877
+8/21/2022,Sunday,Bitter Chocolate,0,100,58,4.5,28
+8/21/2022,Sunday,Green Beans,0,100,6.97,1.83,0.22
+8/21/2022,Sunday,Almond,0,1,0.217,0.212,0.494
+8/21/2022,Sunday,Shakshuka,0,100,7,1.5,3.1
+8/21/2022,Sunday,Tamar ,3,17,12.745,0.308,0.026
+8/21/2022,Sunday,Potato,0,175,37.012,4.375,0.228
+8/22/2022,Monday,Avocado,0,174,14.842,3.48,25.508
+8/22/2022,Monday,WaterMelon,1,250,18.875,1.525,0.375
+8/22/2022,Monday,Wallnut,0,5,0.686,0.762,3.261
+8/22/2022,Monday,Espresso,7,0.04,0,0,0.072
+8/22/2022,Monday,Actimel,0,108,5,2.8,1.6
+8/22/2022,Monday,Friday Dinner,0,1000,95,69,40
+8/22/2022,Monday,Beer,0,330,11.715,1.518,0
+8/22/2022,Monday,Sweet Potato,0,596,119.915,9.357,0.298
+8/22/2022,Monday,Egg,2,58,0.65,7.296,6.154
+8/22/2022,Monday,Banana,0,101,23.068,1.101,0.333
+8/22/2022,Monday,Yellow Cheece,0,18.18,0.036,4.3,5.09
+8/22/2022,Monday,Gamba,0,185,11.156,1.832,0.555
+8/22/2022,Monday,Ice cream,0,122,30.866,4.514,9.882
+8/22/2022,Monday,Hamburger,0,100,1,15,10
+8/22/2022,Monday,Green Olives,0,2,0.077,0.021,0.306
+8/22/2022,Monday,Chicken Breast,0,125,0,26.538,3.238
+8/22/2022,Monday,Greek Yogurt,0,130,5.5,7.2,8.5
+8/22/2022,Monday,Yougort Pro,0,150,5.4,13.4,0
+8/22/2022,Monday,Yoplle,2,150,19.8,4.65,4.5
+8/22/2022,Monday,Eggplant,2,42,6.384,0.882,4.158
+8/22/2022,Monday,Thina,2,15,1.605,3.825,9.015
+8/22/2022,Monday,Matbuha,2,15,1.575,0.255,0.495
+8/22/2022,Monday,Masabaha,0,42,4.2,2.73,9.24
+8/22/2022,Monday,Ketchup,0,19,4.579,0.171,0.019
+8/22/2022,Monday,Honey,0,9,7.416,0.027,0
+8/22/2022,Monday,Sour Cavige,0,32,1.12,0.32,0
+8/22/2022,Monday,Beatroot,0,120,11.472,1.932,0.204
+8/22/2022,Monday,Tziki,0,20,0.98,1.88,0.9
+8/22/2022,Monday,NA Meal,0,100,274,164,146
+8/22/2022,Monday,Unknown,1,100,50,30,10
+8/22/2022,Monday,Bread,0,30,13.59,2.61,0.69
+8/22/2022,Monday,Hamburger Bun,0,85,41.82,7.905,3.315
+8/22/2022,Monday,Cucumber,0,96,3.485,0.624,0.106
+8/22/2022,Monday,Pickles,0,28,0.633,0.092,0.056
+8/22/2022,Monday,Mango,1,246,41.82,1.255,0.664
+8/22/2022,Monday,Persian Rice,0,166,37.184,3.652,10.956
+8/22/2022,Monday,Shawarma,0,100,3,17,5
+8/22/2022,Monday,Sausage,0,100,2,20,10
+8/22/2022,Monday,Sabih,0,220,58.08,16.5,20.24
+8/22/2022,Monday,Steak,0,300,0,79.94,50.28
+8/22/2022,Monday,Sinta steak,0,300,0,87.99,29.01
+8/22/2022,Monday,Cavige salad,0,100,12.88,1.47,11.08
+8/22/2022,Monday,Tomato,1,172,6.748,1.526,0.344
+8/22/2022,Monday,Sherry Tomato,0,10,0.392,0.088,0.02
+8/22/2022,Monday,Dolomates,0,100,13.8,2.3,11.5
+8/22/2022,Monday,Grape,0,6,1.086,0.043,0.01
+8/22/2022,Monday,Fuckatza,0,100,36,9,8
+8/22/2022,Monday,Mushroom,0,25,0.82,0.773,0.085
+8/22/2022,Monday,Pizza,0,100,37,10,6
+8/22/2022,Monday,Pita Bread (cusmin),4,87.5,28.7,9.3625,1.1375
+8/22/2022,Monday,Pita bread,0,74,30.34,0.518,0.222
+8/22/2022,Monday,Pasta,0,166,117.86,18.26,2.49
+8/22/2022,Monday,Cottege 3%,0,250,3.75,27.5,7.5
+8/22/2022,Monday,Cottege 5%,1,250,3.75,27.5,12.5
+8/22/2022,Monday,Tuna Can (Water),0,112,0,27.776,0.672
+8/22/2022,Monday,Tuna Can (Oil),0,160,0,38.4,20.8
+8/22/2022,Monday,Squash,0,218,4.31,0.91,0.31
+8/22/2022,Monday,Sweet Corn,0,185,46.454,6.142,2.368
+8/22/2022,Monday,Kashio Nut,6,2,0.604,0.364,0.877
+8/22/2022,Monday,Bitter Chocolate,0,100,58,4.5,28
+8/22/2022,Monday,Green Beans,0,100,6.97,1.83,0.22
+8/22/2022,Monday,Almond,6,1,0.217,0.212,0.494
+8/22/2022,Monday,Shakshuka,0,100,7,1.5,3.1
+8/22/2022,Monday,Tamar ,4,17,12.745,0.308,0.026
+8/22/2022,Monday,Potato,0,175,37.012,4.375,0.228
+8/23/2022,Tuesday,Avocado,0,174,14.842,3.48,25.508
+8/23/2022,Tuesday,WaterMelon,0,250,18.875,1.525,0.375
+8/23/2022,Tuesday,Wallnut,0,5,0.686,0.762,3.261
+8/23/2022,Tuesday,Espresso,5,0.04,0,0,0.072
+8/23/2022,Tuesday,Actimel,0,108,5,2.8,1.6
+8/23/2022,Tuesday,Friday Dinner,0,1000,95,69,40
+8/23/2022,Tuesday,Beer,0,330,11.715,1.518,0
+8/23/2022,Tuesday,Sweet Potato,0,596,119.915,9.357,0.298
+8/23/2022,Tuesday,Egg,2,58,0.65,7.296,6.154
+8/23/2022,Tuesday,Banana,0,101,23.068,1.101,0.333
+8/23/2022,Tuesday,Yellow Cheece,0,18.18,0.036,4.3,5.09
+8/23/2022,Tuesday,Gamba,0,185,11.156,1.832,0.555
+8/23/2022,Tuesday,Ice cream,0,122,30.866,4.514,9.882
+8/23/2022,Tuesday,Hamburger,0,100,1,15,10
+8/23/2022,Tuesday,Green Olives,0,2,0.077,0.021,0.306
+8/23/2022,Tuesday,Chicken Breast,0,125,0,26.538,3.238
+8/23/2022,Tuesday,Greek Yogurt,0,130,5.5,7.2,8.5
+8/23/2022,Tuesday,Yougort Pro,0,150,5.4,13.4,0
+8/23/2022,Tuesday,Yoplle,2,150,19.8,4.65,4.5
+8/23/2022,Tuesday,Eggplant,0,42,6.384,0.882,4.158
+8/23/2022,Tuesday,Thina,0,15,1.605,3.825,9.015
+8/23/2022,Tuesday,Matbuha,0,15,1.575,0.255,0.495
+8/23/2022,Tuesday,Masabaha,0,42,4.2,2.73,9.24
+8/23/2022,Tuesday,Ketchup,0,19,4.579,0.171,0.019
+8/23/2022,Tuesday,Honey,0,9,7.416,0.027,0
+8/23/2022,Tuesday,Sour Cavige,0,32,1.12,0.32,0
+8/23/2022,Tuesday,Beatroot,0,120,11.472,1.932,0.204
+8/23/2022,Tuesday,Tziki,0,20,0.98,1.88,0.9
+8/23/2022,Tuesday,NA Meal,0,100,274,164,146
+8/23/2022,Tuesday,Unknown,0,100,50,30,10
+8/23/2022,Tuesday,Bread,0,30,13.59,2.61,0.69
+8/23/2022,Tuesday,Hamburger Bun,0,85,41.82,7.905,3.315
+8/23/2022,Tuesday,Cucumber,0,96,3.485,0.624,0.106
+8/23/2022,Tuesday,Pickles,1,28,0.633,0.092,0.056
+8/23/2022,Tuesday,Mango,1,246,41.82,1.255,0.664
+8/23/2022,Tuesday,Persian Rice,0,166,37.184,3.652,10.956
+8/23/2022,Tuesday,Shawarma,0,100,3,17,5
+8/23/2022,Tuesday,Sausage,0,100,2,20,10
+8/23/2022,Tuesday,Sabih,0,220,58.08,16.5,20.24
+8/23/2022,Tuesday,Steak,0,300,0,79.94,50.28
+8/23/2022,Tuesday,Sinta steak,0.67,300,0,87.99,29.01
+8/23/2022,Tuesday,Cavige salad,0,100,12.88,1.47,11.08
+8/23/2022,Tuesday,Tomato,0,172,6.748,1.526,0.344
+8/23/2022,Tuesday,Sherry Tomato,10,10,0.392,0.088,0.02
+8/23/2022,Tuesday,Dolomates,0,100,13.8,2.3,11.5
+8/23/2022,Tuesday,Grape,0,6,1.086,0.043,0.01
+8/23/2022,Tuesday,Fuckatza,0,100,36,9,8
+8/23/2022,Tuesday,Mushroom,0,25,0.82,0.773,0.085
+8/23/2022,Tuesday,Pizza,0,100,37,10,6
+8/23/2022,Tuesday,Pita Bread (cusmin),2,87.5,28.7,9.3625,1.1375
+8/23/2022,Tuesday,Pita bread,0,74,30.34,0.518,0.222
+8/23/2022,Tuesday,Pasta,0,166,117.86,18.26,2.49
+8/23/2022,Tuesday,Cottege 3%,0,250,3.75,27.5,7.5
+8/23/2022,Tuesday,Cottege 5%,1,250,3.75,27.5,12.5
+8/23/2022,Tuesday,Tuna Can (Water),0,112,0,27.776,0.672
+8/23/2022,Tuesday,Tuna Can (Oil),0,160,0,38.4,20.8
+8/23/2022,Tuesday,Squash,0,218,4.31,0.91,0.31
+8/23/2022,Tuesday,Sweet Corn,0,185,46.454,6.142,2.368
+8/23/2022,Tuesday,Kashio Nut,20,2,0.604,0.364,0.877
+8/23/2022,Tuesday,Bitter Chocolate,0,100,58,4.5,28
+8/23/2022,Tuesday,Green Beans,0,100,6.97,1.83,0.22
+8/23/2022,Tuesday,Almond,0,1,0.217,0.212,0.494
+8/23/2022,Tuesday,Shakshuka,0,100,7,1.5,3.1
+8/23/2022,Tuesday,Tamar ,8,17,12.745,0.308,0.026
+8/24/2022,Wednesday,Potato,0,175,37.012,4.375,0.228
+8/24/2022,Wednesday,Avocado,0,174,14.842,3.48,25.508
+8/24/2022,Wednesday,WaterMelon,0,250,18.875,1.525,0.375
+8/24/2022,Wednesday,Wallnut,0,5,0.686,0.762,3.261
+8/24/2022,Wednesday,Espresso,4,0.04,0,0,0.072
+8/24/2022,Wednesday,Actimel,0,108,5,2.8,1.6
+8/24/2022,Wednesday,Friday Dinner,0,1000,95,69,40
+8/24/2022,Wednesday,Beer,0,330,11.715,1.518,0
+8/24/2022,Wednesday,Sweet Potato,1,596,119.915,9.357,0.298
+8/24/2022,Wednesday,Egg,2,58,0.65,7.296,6.154
+8/24/2022,Wednesday,Banana,1,101,23.068,1.101,0.333
+8/24/2022,Wednesday,Yellow Cheece,0,18.18,0.036,4.3,5.09
+8/24/2022,Wednesday,Gamba,2,185,11.156,1.832,0.555
+8/24/2022,Wednesday,Ice cream,0,122,30.866,4.514,9.882
+8/24/2022,Wednesday,Hamburger,0,100,1,15,10
+8/24/2022,Wednesday,Green Olives,0,2,0.077,0.021,0.306
+8/24/2022,Wednesday,Chicken Breast,2,125,0,26.538,3.238
+8/24/2022,Wednesday,Greek Yogurt,0,130,5.5,7.2,8.5
+8/24/2022,Wednesday,Yougort Pro,0,150,5.4,13.4,0
+8/24/2022,Wednesday,Yoplle,0,150,19.8,4.65,4.5
+8/24/2022,Wednesday,Eggplant,0,42,6.384,0.882,4.158
+8/24/2022,Wednesday,Thina,2,15,1.605,3.825,9.015
+8/24/2022,Wednesday,Matbuha,0,15,1.575,0.255,0.495
+8/24/2022,Wednesday,Masabaha,0,42,4.2,2.73,9.24
+8/24/2022,Wednesday,Ketchup,0,19,4.579,0.171,0.019
+8/24/2022,Wednesday,Honey,0,9,7.416,0.027,0
+8/24/2022,Wednesday,Sour Cavige,0,32,1.12,0.32,0
+8/24/2022,Wednesday,Beatroot,0,120,11.472,1.932,0.204
+8/24/2022,Wednesday,Tziki,0,20,0.98,1.88,0.9
+8/24/2022,Wednesday,NA Meal,0,100,274,164,146
+8/24/2022,Wednesday,Unknown,0,100,50,30,10
+8/24/2022,Wednesday,Bread,4,30,13.59,2.61,0.69
+8/24/2022,Wednesday,Hamburger Bun,0,85,41.82,7.905,3.315
+8/24/2022,Wednesday,Cucumber,1,96,3.485,0.624,0.106
+8/24/2022,Wednesday,Pickles,0,28,0.633,0.092,0.056
+8/24/2022,Wednesday,Mango,0,246,41.82,1.255,0.664
+8/24/2022,Wednesday,Persian Rice,1,166,37.184,3.652,10.956
+8/24/2022,Wednesday,Shawarma,0,100,3,17,5
+8/24/2022,Wednesday,Sausage,0,100,2,20,10
+8/24/2022,Wednesday,Sabih,0,220,58.08,16.5,20.24
+8/24/2022,Wednesday,Steak,0,300,0,79.94,50.28
+8/24/2022,Wednesday,Sinta steak,0,300,0,87.99,29.01
+8/24/2022,Wednesday,Cavige salad,0,100,12.88,1.47,11.08
+8/24/2022,Wednesday,Tomato,0,172,6.748,1.526,0.344
+8/24/2022,Wednesday,Sherry Tomato,5,10,0.392,0.088,0.02
+8/24/2022,Wednesday,Dolomates,0,100,13.8,2.3,11.5
+8/24/2022,Wednesday,Grape,0,6,1.086,0.043,0.01
+8/24/2022,Wednesday,Fuckatza,0,100,36,9,8
+8/24/2022,Wednesday,Mushroom,0,25,0.82,0.773,0.085
+8/24/2022,Wednesday,Pizza,0,100,37,10,6
+8/24/2022,Wednesday,Pita Bread (cusmin),0,87.5,28.7,9.3625,1.1375
+8/24/2022,Wednesday,Pita bread,0,74,30.34,0.518,0.222
+8/24/2022,Wednesday,Pasta,0,166,117.86,18.26,2.49
+8/24/2022,Wednesday,Cottege 3%,0,250,3.75,27.5,7.5
+8/24/2022,Wednesday,Cottege 5%,0,250,3.75,27.5,12.5
+8/24/2022,Wednesday,Tuna Can (Water),0,112,0,27.776,0.672
+8/24/2022,Wednesday,Tuna Can (Oil),0,160,0,38.4,20.8
+8/24/2022,Wednesday,Squash,0,218,4.31,0.91,0.31
+8/24/2022,Wednesday,Sweet Corn,0,185,46.454,6.142,2.368
+8/24/2022,Wednesday,Kashio Nut,10,2,0.604,0.364,0.877
+8/24/2022,Wednesday,Bitter Chocolate,0,100,58,4.5,28
+8/24/2022,Wednesday,Green Beans,0,100,6.97,1.83,0.22
+8/24/2022,Wednesday,Almond,10,1,0.217,0.212,0.494
+8/24/2022,Wednesday,Shakshuka,0,100,7,1.5,3.1
+8/24/2022,Wednesday,Tamar ,4,17,12.745,0.308,0.026
+8/24/2022,Wednesday,Potato,0,175,37.012,4.375,0.228
+8/25/2022,Thursday,Avocado,2,174,14.842,3.48,25.508
+8/25/2022,Thursday,WaterMelon,0,250,18.875,1.525,0.375
+8/25/2022,Thursday,Wallnut,0,5,0.686,0.762,3.261
+8/25/2022,Thursday,Espresso,5,0.04,0,0,0.072
+8/25/2022,Thursday,Actimel,0,108,5,2.8,1.6
+8/25/2022,Thursday,Friday Dinner,0,1000,95,69,40
+8/25/2022,Thursday,Beer,0,330,11.715,1.518,0
+8/25/2022,Thursday,Sweet Potato,1,596,119.915,9.357,0.298
+8/25/2022,Thursday,Egg,0,58,0.65,7.296,6.154
+8/25/2022,Thursday,Banana,1,101,23.068,1.101,0.333
+8/25/2022,Thursday,Yellow Cheece,0,18.18,0.036,4.3,5.09
+8/25/2022,Thursday,Gamba,0,185,11.156,1.832,0.555
+8/25/2022,Thursday,Ice cream,0,122,30.866,4.514,9.882
+8/25/2022,Thursday,Hamburger,0,100,1,15,10
+8/25/2022,Thursday,Green Olives,0,2,0.077,0.021,0.306
+8/25/2022,Thursday,Chicken Breast,0,125,0,26.538,3.238
+8/25/2022,Thursday,Greek Yogurt,0,130,5.5,7.2,8.5
+8/25/2022,Thursday,Yougort Pro,0,150,5.4,13.4,0
+8/25/2022,Thursday,Yoplle,0,150,19.8,4.65,4.5
+8/25/2022,Thursday,Eggplant,0,42,6.384,0.882,4.158
+8/25/2022,Thursday,Thina,3,15,1.605,3.825,9.015
+8/25/2022,Thursday,Matbuha,0,15,1.575,0.255,0.495
+8/25/2022,Thursday,Masabaha,0,42,4.2,2.73,9.24
+8/25/2022,Thursday,Ketchup,0,19,4.579,0.171,0.019
+8/25/2022,Thursday,Honey,0,9,7.416,0.027,0
+8/25/2022,Thursday,Sour Cavige,0,32,1.12,0.32,0
+8/25/2022,Thursday,Beatroot,0,120,11.472,1.932,0.204
+8/25/2022,Thursday,Tziki,0,20,0.98,1.88,0.9
+8/25/2022,Thursday,NA Meal,0,100,274,164,146
+8/25/2022,Thursday,Unknown,0,100,50,30,10
+8/25/2022,Thursday,Bread,0,30,13.59,2.61,0.69
+8/25/2022,Thursday,Hamburger Bun,0,85,41.82,7.905,3.315
+8/25/2022,Thursday,Cucumber,0,96,3.485,0.624,0.106
+8/25/2022,Thursday,Pickles,0,28,0.633,0.092,0.056
+8/25/2022,Thursday,Mango,0,246,41.82,1.255,0.664
+8/25/2022,Thursday,Persian Rice,0,166,37.184,3.652,10.956
+8/25/2022,Thursday,Shawarma,0,100,3,17,5
+8/25/2022,Thursday,Sausage,0,100,2,20,10
+8/25/2022,Thursday,Sabih,0,220,58.08,16.5,20.24
+8/25/2022,Thursday,Steak,0,300,0,79.94,50.28
+8/25/2022,Thursday,Sinta steak,0,300,0,87.99,29.01
+8/25/2022,Thursday,Cavige salad,0,100,12.88,1.47,11.08
+8/25/2022,Thursday,Tomato,0,172,6.748,1.526,0.344
+8/25/2022,Thursday,Sherry Tomato,0,10,0.392,0.088,0.02
+8/25/2022,Thursday,Dolomates,0,100,13.8,2.3,11.5
+8/25/2022,Thursday,Grape,0,6,1.086,0.043,0.01
+8/25/2022,Thursday,Fuckatza,0,100,36,9,8
+8/25/2022,Thursday,Mushroom,0,25,0.82,0.773,0.085
+8/25/2022,Thursday,Pizza,0,100,37,10,6
+8/25/2022,Thursday,Pita Bread (cusmin),2,87.5,28.7,9.3625,1.1375
+8/25/2022,Thursday,Pita bread,0,74,30.34,0.518,0.222
+8/25/2022,Thursday,Pasta,0,166,117.86,18.26,2.49
+8/25/2022,Thursday,Cottege 3%,0,250,3.75,27.5,7.5
+8/25/2022,Thursday,Cottege 5%,1,250,3.75,27.5,12.5
+8/25/2022,Thursday,Tuna Can (Water),0,112,0,27.776,0.672
+8/25/2022,Thursday,Tuna Can (Oil),0,160,0,38.4,20.8
+8/25/2022,Thursday,Squash,0,218,4.31,0.91,0.31
+8/25/2022,Thursday,Sweet Corn,0,185,46.454,6.142,2.368
+8/25/2022,Thursday,Kashio Nut,0,2,0.604,0.364,0.877
+8/25/2022,Thursday,Bitter Chocolate,0,100,58,4.5,28
+8/25/2022,Thursday,Green Beans,0,100,6.97,1.83,0.22
+8/25/2022,Thursday,Almond,0,1,0.217,0.212,0.494
+8/25/2022,Thursday,Shakshuka,0,100,7,1.5,3.1
+8/25/2022,Thursday,Tamar ,7,17,12.745,0.308,0.026
+8/25/2022,Thursday,Potato,0,175,37.012,4.375,0.228
+8/26/2022,Friday,Avocado,,174,14.842,3.48,25.508
+8/26/2022,Friday,WaterMelon,0,250,18.875,1.525,0.375
+8/26/2022,Friday,Wallnut,5,5,0.686,0.762,3.261
+8/26/2022,Friday,Espresso,6,0.04,0,0,0.072
+8/26/2022,Friday,Actimel,0,108,5,2.8,1.6
+8/26/2022,Friday,Friday Dinner,1.5,1000,95,69,40
+8/26/2022,Friday,Beer,0,330,11.715,1.518,0
+8/26/2022,Friday,Sweet Potato,,596,119.915,9.357,0.298
+8/26/2022,Friday,Egg,1,58,0.65,7.296,6.154
+8/26/2022,Friday,Banana,1,101,23.068,1.101,0.333
+8/26/2022,Friday,Yellow Cheece,0,18.18,0.036,4.3,5.09
+8/26/2022,Friday,Gamba,0,185,11.156,1.832,0.555
+8/26/2022,Friday,Ice cream,0,122,30.866,4.514,9.882
+8/26/2022,Friday,Hamburger,0,100,1,15,10
+8/26/2022,Friday,Green Olives,0,2,0.077,0.021,0.306
+8/26/2022,Friday,Chicken Breast,0,125,0,26.538,3.238
+8/26/2022,Friday,Greek Yogurt,0,130,5.5,7.2,8.5
+8/26/2022,Friday,Yougort Pro,0,150,5.4,13.4,0
+8/26/2022,Friday,Yoplle,0,150,19.8,4.65,4.5
+8/26/2022,Friday,Eggplant,1,42,6.384,0.882,4.158
+8/26/2022,Friday,Thina,2,15,1.605,3.825,9.015
+8/26/2022,Friday,Matbuha,2,15,1.575,0.255,0.495
+8/26/2022,Friday,Masabaha,2,42,4.2,2.73,9.24
+8/26/2022,Friday,Ketchup,0,19,4.579,0.171,0.019
+8/26/2022,Friday,Honey,0,9,7.416,0.027,0
+8/26/2022,Friday,Sour Cavige,0,32,1.12,0.32,0
+8/26/2022,Friday,Beatroot,0,120,11.472,1.932,0.204
+8/26/2022,Friday,Tziki,0,20,0.98,1.88,0.9
+8/26/2022,Friday,NA Meal,0,100,274,164,146
+8/26/2022,Friday,Unknown,0,100,50,30,10
+8/26/2022,Friday,Bread,2,30,13.59,2.61,0.69
+8/26/2022,Friday,Hamburger Bun,0,85,41.82,7.905,3.315
+8/26/2022,Friday,Cucumber,0,96,3.485,0.624,0.106
+8/26/2022,Friday,Pickles,0,28,0.633,0.092,0.056
+8/26/2022,Friday,Mango,1,246,41.82,1.255,0.664
+8/26/2022,Friday,Persian Rice,0,166,37.184,3.652,10.956
+8/26/2022,Friday,Shawarma,0,100,3,17,5
+8/26/2022,Friday,Sausage,0,100,2,20,10
+8/26/2022,Friday,Sabih,0,220,58.08,16.5,20.24
+8/26/2022,Friday,Steak,0,300,0,79.94,50.28
+8/26/2022,Friday,Sinta steak,0,300,0,87.99,29.01
+8/26/2022,Friday,Cavige salad,0,100,12.88,1.47,11.08
+8/26/2022,Friday,Tomato,0,172,6.748,1.526,0.344
+8/26/2022,Friday,Sherry Tomato,0,10,0.392,0.088,0.02
+8/26/2022,Friday,Dolomates,1,100,13.8,2.3,11.5
+8/26/2022,Friday,Grape,0,6,1.086,0.043,0.01
+8/26/2022,Friday,Fuckatza,0,100,36,9,8
+8/26/2022,Friday,Mushroom,0,25,0.82,0.773,0.085
+8/26/2022,Friday,Pizza,0,100,37,10,6
+8/26/2022,Friday,Pita Bread (cusmin),2,87.5,28.7,9.3625,1.1375
+8/26/2022,Friday,Pita bread,0,74,30.34,0.518,0.222
+8/26/2022,Friday,Pasta,0,166,117.86,18.26,2.49
+8/26/2022,Friday,Cottege 3%,0,250,3.75,27.5,7.5
+8/26/2022,Friday,Cottege 5%,0,250,3.75,27.5,12.5
+8/26/2022,Friday,Tuna Can (Water),0,112,0,27.776,0.672
+8/26/2022,Friday,Tuna Can (Oil),0,160,0,38.4,20.8
+8/26/2022,Friday,Squash,0,218,4.31,0.91,0.31
+8/26/2022,Friday,Sweet Corn,0,185,46.454,6.142,2.368
+8/26/2022,Friday,Kashio Nut,0,2,0.604,0.364,0.877
+8/26/2022,Friday,Bitter Chocolate,0,100,58,4.5,28
+8/26/2022,Friday,Green Beans,0,100,6.97,1.83,0.22
+8/26/2022,Friday,Almond,0,1,0.217,0.212,0.494
+8/26/2022,Friday,Shakshuka,0,100,7,1.5,3.1
+8/26/2022,Friday,Tamar ,7,17,12.745,0.308,0.026
+8/26/2022,Friday,Potato,0,175,37.012,4.375,0.228
+8/27/2022,Saturday,Avocado,0,174,14.842,3.48,25.508
+8/27/2022,Saturday,WaterMelon,0,250,18.875,1.525,0.375
+8/27/2022,Saturday,Wallnut,0,5,0.686,0.762,3.261
+8/27/2022,Saturday,Espresso,0,0.04,0,0,0.072
+8/27/2022,Saturday,Actimel,0,108,5,2.8,1.6
+8/27/2022,Saturday,Friday Dinner,0,1000,95,69,40
+8/27/2022,Saturday,Beer,0,330,11.715,1.518,0
+8/27/2022,Saturday,Sweet Potato,0,596,119.915,9.357,0.298
+8/27/2022,Saturday,Egg,0,58,0.65,7.296,6.154
+8/27/2022,Saturday,Banana,0,101,23.068,1.101,0.333
+8/27/2022,Saturday,Yellow Cheece,0,18.18,0.036,4.3,5.09
+8/27/2022,Saturday,Gamba,0,185,11.156,1.832,0.555
+8/27/2022,Saturday,Ice cream,0,122,30.866,4.514,9.882
+8/27/2022,Saturday,Hamburger,0,100,1,15,10
+8/27/2022,Saturday,Green Olives,0,2,0.077,0.021,0.306
+8/27/2022,Saturday,Chicken Breast,0,125,0,26.538,3.238
+8/27/2022,Saturday,Greek Yogurt,0,130,5.5,7.2,8.5
+8/27/2022,Saturday,Yougort Pro,0,150,5.4,13.4,0
+8/27/2022,Saturday,Yoplle,0,150,19.8,4.65,4.5
+8/27/2022,Saturday,Eggplant,0,42,6.384,0.882,4.158
+8/27/2022,Saturday,Thina,0,15,1.605,3.825,9.015
+8/27/2022,Saturday,Matbuha,0,15,1.575,0.255,0.495
+8/27/2022,Saturday,Masabaha,0,42,4.2,2.73,9.24
+8/27/2022,Saturday,Ketchup,0,19,4.579,0.171,0.019
+8/27/2022,Saturday,Honey,0,9,7.416,0.027,0
+8/27/2022,Saturday,Sour Cavige,0,32,1.12,0.32,0
+8/27/2022,Saturday,Beatroot,0,120,11.472,1.932,0.204
+8/27/2022,Saturday,Tziki,0,20,0.98,1.88,0.9
+8/27/2022,Saturday,NA Meal,1,100,274,164,146
+8/27/2022,Saturday,Bread,0,30,13.59,2.61,0.69
+8/27/2022,Saturday,Hamburger Bun,0,85,41.82,7.905,3.315
+8/27/2022,Saturday,Cucumber,0,96,3.485,0.624,0.106
+8/27/2022,Saturday,Pickles,0,28,0.633,0.092,0.056
+8/27/2022,Saturday,Mango,0,246,41.82,1.255,0.664
+8/27/2022,Saturday,Persian Rice,0,166,37.184,3.652,10.956
+8/27/2022,Saturday,Shawarma,0,100,3,17,5
+8/27/2022,Saturday,Sausage,0,100,2,20,10
+8/27/2022,Saturday,Sabih,0,220,58.08,16.5,20.24
+8/27/2022,Saturday,Steak,0,300,0,79.94,50.28
+8/27/2022,Saturday,Sinta steak,0,300,0,87.99,29.01
+8/27/2022,Saturday,Cavige salad,0,100,12.88,1.47,11.08
+8/27/2022,Saturday,Tomato,0,172,6.748,1.526,0.344
+8/27/2022,Saturday,Sherry Tomato,0,10,0.392,0.088,0.02
+8/27/2022,Saturday,Dolomates,0,100,13.8,2.3,11.5
+8/27/2022,Saturday,Grape,0,6,1.086,0.043,0.01
+8/27/2022,Saturday,Fuckatza,0,100,36,9,8
+8/27/2022,Saturday,Mushroom,0,25,0.82,0.773,0.085
+8/27/2022,Saturday,Pizza,0,100,37,10,6
+8/27/2022,Saturday,Pita Bread (cusmin),0,87.5,28.7,9.3625,1.1375
+8/27/2022,Saturday,Pita bread,0,74,30.34,0.518,0.222
+8/27/2022,Saturday,Pasta,0,166,117.86,18.26,2.49
+8/27/2022,Saturday,Cottege 3%,0,250,3.75,27.5,7.5
+8/27/2022,Saturday,Cottege 5%,0,250,3.75,27.5,12.5
+8/27/2022,Saturday,Tuna Can (Water),0,112,0,27.776,0.672
+8/27/2022,Saturday,Tuna Can (Oil),0,160,0,38.4,20.8
+8/27/2022,Saturday,Squash,0,218,4.31,0.91,0.31
+8/27/2022,Saturday,Sweet Corn,0,185,46.454,6.142,2.368
+8/27/2022,Saturday,Kashio Nut,0,2,0.604,0.364,0.877
+8/27/2022,Saturday,Bitter Chocolate,0,100,58,4.5,28
+8/27/2022,Saturday,Green Beans,0,100,6.97,1.83,0.22
+8/27/2022,Saturday,Almond,0,1,0.217,0.212,0.494
+8/27/2022,Saturday,Shakshuka,0,100,7,1.5,3.1
+8/27/2022,Saturday,Tamar ,0,17,12.745,0.308,0.026
+8/27/2022,Saturday,Potato,0,175,37.012,4.375,0.228

@@ -1,4 +1,4 @@
-﻿-- Calories consumption per Date
+-- Calories consumption per Date
 
 create view V_Cal as 
 select*, 
@@ -10,6 +10,7 @@ create view V_Deficit as
 select date, sum(product_Cal_per_Date) as CalPerDay,daily_cal_Target, round(sum(product_Cal_per_Date) - Daily_Cal_Target ,2) AS CalDeficit
 from V_Cal
 group by Date,Daily_Cal_Target
+
 
 -- Days of calorie deficit / Days of calorie surplus
 
@@ -27,7 +28,7 @@ from V_Deficit
  from V_Deficit
 
  -- conclusion: I was in a calorie deficit in that time period
- 
+
 -- Calories by day of the week
 
 select A.Day, round(AVG(A.CalPerDay),2) as cal_per_weekday
@@ -53,7 +54,7 @@ from Energy
 
 -- Total Macro nutriants split in my Diet
 
-select round((A.sum_carbs/A.sum_calories)*100,2) as 'T_Carb_%', round((A.sum_protein/A.sum_calories)*100,2) as 'T_Protein_%', round((A.sum_fat/A.sum_calories)*100,2) as 'T_Fat_%'
+select round((A.sum_carbs/A.sum_calories)*100,2) as 'T_Carb_%', round((A.sum_protein/A.sum_calories)*100,2) as 'T_Protein_%', round((A.sum_fat/A.sum_calories)*100,2) as 'T_Fat_%', '100' as Total
 from (
 select sum(carbs_cal_per_day) as sum_carbs, sum(protein_cal_per_day) as sum_protein, sum(fat_cal_per_day) as sum_fat, sum(Total_cal_per_day) as sum_calories
 from Energy ) A
@@ -93,6 +94,8 @@ where A.RN =1
 
 /* views:
 V_Cal = every Product Calories in that day
+
+V_deficit = daily Deficit
 
 Energy = carbs, protein and fat in clory terms consumed that day
 */

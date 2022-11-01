@@ -1,10 +1,35 @@
+﻿-- Calculation of my  TEE (Total Energy Expenditure)
+
+create procedure sp_TEE
+@weight float,
+@height float,
+@Age int,
+@train Float
+as
+begin
+
+declare @TEE float
+
+set @TEE = (select (66.47 + (13.75*@weight) + (5*@height) - (6.78*@age))*AF
+from TEE
+where training = @train)
+
+Print @TEE
+
+end
+
+
+exec sp_TEE @weight = 75, @height = 170, @age = 37, @train = 4
+
+
 -- Calories consumption per Date
 
 create view V_Cal as 
 select*, 
 round(case when Quantity > 0 then (Quantity)*(((Carbs_gr+Protein_gr)*4) + (Fats_gr*9))
-else 0 end,2) as Product_Cal_Per_Date, 2651 as Daily_Cal_Target
+else 0 end,2) as Product_Cal_Per_Date, 2630 as Daily_Cal_Target
 from NutritionDataset 
+
 
 create view V_Deficit as
 select date, sum(product_Cal_per_Date) as CalPerDay,daily_cal_Target, round(sum(product_Cal_per_Date) - Daily_Cal_Target ,2) AS CalDeficit
@@ -14,7 +39,7 @@ group by Date,Daily_Cal_Target
 
 -- Days of calorie deficit / Days of calorie surplus
 
-select sum(A.deficit_days) as deficit_days, (count(A.date) - sum(A.deficit_days)) as Plus_days
+select sum(A.deficit_days) as deficit_days, (count(A.date) - sum(A.deficit_days)) as Plus_days, count(A.date) as All_Days
 from (
 select Date, CalDeficit, case
 when CalDeficit < 0 then 1
@@ -90,6 +115,11 @@ On T.Date = E.Date
 where T.Type <> 'N/A' ) A
 where A.RN =1
 
+-- Average Calorie Deficit
+
+select AVG(caldeficit) AVG
+from V_Deficit
+
 
 
 /* views:
@@ -98,5 +128,8 @@ V_Cal = every Product Calories in that day
 V_deficit = daily Deficit
 
 Energy = carbs, protein and fat in clory terms consumed that day
+
 */
+
+
 
